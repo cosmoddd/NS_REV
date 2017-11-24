@@ -1,0 +1,26 @@
+//  dialog of the couple
+// 
+INTURRUPT
+	Person A
+Hey I think I've seen you from somewhere.
+	Person B
+Yeah, you look sort of familiar.
+	Person A
+Was it... no, couldn't have been.
+HT
+Human 1 looks at Human 2
+	Person B
+Where, Hans?
+	Person A
+Just... I dunno, but, yeah.  
+	Person B
+Nice night, stranger.
+	Person A
+You walked here?  Where's your car?
+	Person B
+That's none of your business, Hans...
+	Person A
+It's just... hmmm...
+	Person B
+Hmmm...
+END

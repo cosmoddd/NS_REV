@@ -1,0 +1,61 @@
+//  dialog of the parking lot guy
+// 
+BEGIN
+	BA
+Here I was about to make the big transition.
+Into the song.  The BIG Song.
+	DC
+I was so ready for it.
+	BA
+Norwood's Etude No. 4.
+	DC
+A hidden classic.
+	BA
+The song that cripples every pianist who ever attempted it.
+	DC
+Dangerously infamous.
+	BA
+And I have this rare copy, see?
+	DC
+The only one, likely.
+	BA  
+People would have stopped in their tracks.
+	DC
+Massive.  Face-melting times had by all.
+	BA
+I was going to do it.
+I was going to bring Norwood back.
+They laugh at me now, but I was going to do it.
+	DC
+I will never laugh at you.
+	BA
+I know.
+And you.  You show up and *splat*.
+The vibe smooshed.  
+The exoskeleton of a worthy night... crumples. 
+	DC
+Utterly.  
+	BA
+Now I'm going to have to wait until the next party.
+	DC
+You *are* his next party.
+Right?
+	BA
+I am DJ Bogart.
+I prefer parties that are peaceful and loving.
+But when the peace is disrupted, the party has to get physical.
+So... please.
+Please give me a reason to change the direction of this very dull, soon-to-be very physical party.
+	DC
+A predictable angle demands a new vector.
+END
+LOOP 1
+EVENT
+DO
+Event - Chapter 2
+	DC
+It's a strange situaton when your biggest audience...
+is the youth.
+But such is da way of da samurai.
+END
+NULL

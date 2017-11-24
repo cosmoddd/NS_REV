@@ -1,0 +1,77 @@
+//  dialog between two linewaiters.  It's hard out there..
+// 
+BlueMoose
+	HT
+	Human 1 looks at You
+	HT
+	Human 2 looks at You
+	Linewaiter 1
+Yeah, I think it's time I duck out for a Blue Moose run.
+	Linewaiter 2
+I'll save you a place in line.  I'm falling asleep on my feet here.
+	HT
+	Human 1 looks at Human 2
+	Linewaiter 2
+To be honest, I don't think it tastes that great.
+I just buy it because Blue Moose supports all my favorite artists.
+	HT
+	Human 2 looks at Human 1
+	Linewaiter 1
+Especially DJ Bogart?
+	Linewaiter 2
+Did you see that three-hour documentary they made on High End Ruminations?
+They screened it downtown at Zoe Park last summer.  
+Millions of people showed up.
+	Linewaiter 1
+Yeah because it was a free show and they were giving away Blue Moose.
+	Linewaiter 2
+Great movie, huh?
+	Linewaiter 1
+Dude, it was a joke.  It focused on Rufus the whole time.
+	Linewaiter 2
+Rufus has access to the archives.  Of course Blue Moose would reach out to him.
+	Linewaiter 1
+Crux 9 and Chad Blueprint weren't interviewed at all.
+Those guys were there from the start.
+DJ Bogart was barely in it, too.
+	Linewaiter 2
+You need to cut Blue Moose some slack.
+Who else is going to tell the Story of High End Ruminations?
+	Linewaiter 1
+They told the story of Rufus
+	Linewatier 2
+Rufus is a visionary.
+	Linewatier 1
+Rufus is good at promoting himself.
+Chad Blueprint was the real heart of it.
+The film left a lot of questions unanswered.
+	Linewaiter 2
+Well, maybe if we get through tonight, you can ask DJ Bogart those questions yourself.
+	Linewaiter 1
+Fat chance...
+END
+RedCube
+	HT
+	Human 1 looks at You
+	HT
+	Human 2 looks at You
+	Linewaiter 1
+It's red.
+	Linewaiter 2
+And cubic.
+	Linewaiter 1
+Captain obvious over here.
+END
+BlueCube
+	Linewaiter 2
+Blue.
+	Linewaiter 1
+I was told I was too old to be bold.
+So I strolled back to the fold.
+And rolled me a stogie and sucked a lemon cold.
+	Linewaiter 2
+Fuck you.
+END
+NULL
+	Linewaitier 1
+Whateversville.

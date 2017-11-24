@@ -1,0 +1,20 @@
+stuff
+DemoCD
+	Human 1
+Fat chance you're getting that by us.
+	Human 2
+DJ Bogart is in the middle of his peak hour.
+	Human 1
+He doesn't take demos until the show is over.
+And that's if you catch him at just the right moment.
+	Human 2
+The show definitely isn't over, buddy.
+	Human 1
+Scram.
+END
+NULL
+	Human 1
+I really don't need to see that around here.
+	Human 2
+Get that away from me.
+END	

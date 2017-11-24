@@ -1,0 +1,893 @@
+﻿//  dialog between Clem and Bruce at the opening part of the game.
+//  setting the scene for future dealings
+//  do not feed into the game until "BEGIN"
+
+INTURRUPT
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Stranger, can you give me any tips on this game?
+I'm getting creamed.
+	HT
+Human 2 looks at Human 1
+	Clem
+Zo is a difficult game, Bruce...
+	HT
+Human 1 looks at Human 2
+	Bruce
+Oh, I'm well aware!
+But I think I still have a few moves left in me...
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+*Ahem*	
+	HT
+Human 1 looks at Human 2
+	HT
+Human 2 looks at Human 1
+END
+FakeMuttonChops
+	HT
+Human 1 looks at Human 2
+	HT
+Human 2 looks at Human 1
+	Clem
+Beards don't impress me much.
+	Bruce
+They imply brains, but do they offer a touch?
+	HT
+Human 2 looks at Human 1
+	Clem
+Now don't get me wrong, you know I think they're alright.
+	HT
+Human 1 looks at Human 2
+	Bruce
+But what'll keep you warm in the middle of the night?
+	HT
+Human 1 looks at Human 2
+	HT
+Human 2 looks at Human 1
+ALL
+Hmmm?
+Hmmmmm?
+ALLEND
+	HT
+	HT Reset
+End
+HomburgHat
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+So old-fashioned.
+	Clem
+Peter Norwood never took the hat off.
+People thought he was bald or trying to hide it.
+He wasn't.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Hey, but bald is beautiful.
+	HT
+Human 2 looks at Human 1
+	Clem
+Not quite the descriptor I had mind, but ok.
+END
+ZebraPants
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Ah yes, looks like you found my pants. 
+Congratulations, I guess?
+	HT
+	HT Reset
+End
+ZebraPants
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+I can't fit into those anymore.  They're yours.
+	HT
+Human 2 looks at Human 1
+	Clem
+You finally dumped those pants, Bruce.  A weight off your shoulders?
+	HT
+Human 1 looks at Human 2
+I wish.  Need to work on that.
+END
+BookOfZo
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Well, if it isn't my trusted copy of the Book of Zo.
+	Clem
+Ha!  Glance through Chapter 1, Bruce.  You might beat me yet.
+EVENT
+GIVE ITEM
+BookOfZo
+	Bruce
+Give me that book, stranger.
+To be honest, I'm a little creeped out you were in my room.
+	HT
+Human 2 looks at Human 1
+	Clem
+It won't be yours for long, Bruce.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Yeah, normally I'd call security, but given how things are right now...
+Well, I'm about to make a game-winning move here.
+	HT
+Human 1 looks at You
+	Bruce
+Ok, stranger.  Take this.
+EVENT
+GET ITEM
+KeyBruceCloset
+	HT
+Human 1 looks at You
+	Bruce
+I've got this jar of pickles, see.
+Been barrelling them for a few months. 
+The brine is a mix of cider vinegar, cloves, wine and honey. 
+I think it's time to take the lid off that jar. 	
+	Clem
+An acquiered taste.
+	HT
+Human 1 looks at Human 2
+	Bruce
+I want you to acquire it tonight, Clem.
+It's time.
+	Clem
+Oh boy...
+END
+EyeballNecklace
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+Is there a gift shop here I'm not aware of?
+	HT
+Human 1 looks at Human 2
+	Bruce
+What do you mean?
+	HT
+Human 2 looks at Human 1
+	Clem
+Norwood's Vision Necklace.
+	HT
+Human 2 looks at You
+	Clem
+The stranger has found his own.
+	Bruce
+That's the necklace Norwood wore everywhere?
+	HT
+Human 2 looks at Human 1
+	Clem
+Even in the pool.
+He says it helped him read into facets of the music he couldn't otherwise.
+	Bruce
+Perhaps it was just a placebo, a crutch.
+	Clem
+Listen to his Bromburg Variations sometime.
+You can hear the chains on his necklace clinking.
+	Bruce
+That bad, huh? 
+	Clem
+It earned him three Eary Awards in '66.
+	Bruce
+That good, huh.
+	Clem
+Quite.
+END
+TheRabbitTalisman
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+Interesting find...
+	HT
+Human 2 looks at Human 1
+	Clem
+I should put this in the cage with your turtle.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Rocky would love it.
+END
+TheNorwoodEtudes
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+That music makes me glad I'm not a musician.
+	Clem
+Many-a-pianist has steered clear of that piece.
+Even a casual attempt is likely to cause some horribly debilitating injury.
+	Bruce
+Keep it.  There's a trash bin around somewhere.
+END
+TheNorwoodSuiteKey
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+I didn't think Dottie let anyone into the Norwood Suite.
+	HT
+Human 2 looks at Human 1
+	Clem
+Nothing is sacred anymore.
+	Bruce
+We used to have rules around here.
+	HT
+Human 2 looks at You
+ALL
+Vagrant.
+Interloper.
+ALLEND
+END
+NorwoodsMonocle
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+Norwood would roast ants on the tennis court with his monocle.
+	HT
+Human 1 looks at Human 2
+	Bruce
+What was he, twelve years old?
+	HT
+Human 2 looks at Human 1
+	Clem
+He did it to releive anxiety before concerts.
+	HT
+	Human 2 looks at You
+The best conerts usually resulted from the biggest the pile of dead ants.
+END
+KeyRoom4
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+I have my own room.
+I stick to the room I've paid for.
+ALLEND
+	HT
+	HT Reset
+END
+LuggageTag
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+I'm going to need to buy a suitcase soon, huh?
+	HT
+Human 2 looks at Human 1
+	Clem
+Yep.  No need to remind me.
+ALL
+*sigh*
+*sigh*
+ALLEND
+	HT
+	HT Reset
+END
+CostumeShoes
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+I don't go dancing enough, Clem.
+	HT
+Human 2 looks at Human 1
+	Clem
+DJ Bogart's crowd isn't really your crowd.
+	HT
+Human 1 looks at Human 2
+	Bruce
+I need to loosen up. 
+All that time spent in the kitchen...
+	HT
+Human 2 looks at Human 1
+I need to dance.
+	Clem
+Then dance.
+	Bruce
+I need to look the part.
+	Clem
+Then go shopping.  You make money here, right?
+Buy something online.  
+I hear Moomozan does same day shipping.
+	Bruce
+I'm worried people will judge me on the dancefloor.
+I'm... not really in dancing shape.
+	Clem
+Listen to yourself.
+	Bruce
+Clem...
+	Clem
+Look, we'll try to get you back on the floor before the weekend's over.
+	Bruce
+Promise?
+	HT
+Human 2 looks at You
+	Clem
+My friend here clearly needs a dancing partner.
+	Bruce
+Clem, stop.
+	HT
+Human 2 looks at Human 1
+	Clem
+Look, we'll finish the game and get you down to the basement, ok?
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at Human 1
+ALL
+*GROAN*
+This guy doesn't know what he's got!
+ALLEND
+	HT
+	HT Reset
+END
+KeyLockerModulo
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+I have enough keys as it is.
+Sometimes I'd rather not know what the key unlocks.
+ALLEND
+END
+MozzarellaBall
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+I don't need another reminder of my day job.
+	Clem
+That cheese might be a little past its prime.
+	HT
+	HT Reset
+END
+LargeTomato
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+Looks ripe.
+	HT
+Human 1 looks at Human 2
+	Bruce
+I found Rocky crawling by a tomato plant, you know.
+	HT
+Human 2 looks at Human 1
+	Clem
+A heartwarming story.
+	Bruce
+What do you have against Rocky?
+	Clem
+He's cramping your style.
+	Bruce
+He's my emotional support animal.
+	Clem
+He's the reason you can never hold down a relationship.
+	Bruce
+What do you mean?
+	Clem
+You KNOW what I mean.
+	Bruce
+The reason I can't hold down a relationship is because I'm out of shape.
+	Clem
+It's all in your head, man.
+	Bruce
+Well, if I stopped eating from my own menu...
+	Clem
+Maybe I should just let you win this game.
+	Bruce
+Please, I need to earn something by myself for once.  
+No more freebies.
+	Clem
+If you say so...
+END
+DemoCD
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+A demo CD, huh?
+	HT
+Human 2 looks at Human 1
+	Clem
+See, Bruce?  Here's someone who takes initiative.
+	Bruce
+Even if I made the indisputable best gumbo north of Yonksville...
+I wouldn't have it in me to approach Chef David with a sample.
+Not even if it were in diamond-encrusted tupperware.
+	Clem
+Nothing wrong with being shy, Bruce.
+	Bruce
+So why does this stranger get your seal of approval?
+	HT
+Human 1 looks at You
+	Bruce
+You bring a demo CD and all the sudden you're Mr. Hot Tuna in a Can?
+	Clem
+Bruce, you are who you are.
+	HT
+Human 1 looks at Human 2
+Embrace that.  So what if Chef David never tastes your gumbo.
+If it's that good, he'll come to you.
+With artists like DJ Bogart, it's a different game.
+	Bruce
+I'm glad I don't play it.
+	Clem
+No, you're playing Zo.
+	Bruce
+Thanks for reminding me.
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+*Ahem.*
+*Ahem.*
+ALLEND
+	HT
+	HT Reset
+END
+ParkingPermit
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+I haven't had a car since I lived with my parents.
+	Clem
+I grew up in the city.  I don't know how to drive.
+ALL
+That thing's useless to me.
+Might as well use it as a coaster.
+ALLEND
+	HT
+	HT Reset
+END
+SpaVoucher
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+*Sigh*
+	HT
+Human 1 looks at Human 2
+	Bruce
+I wish Nadia hadn't fired that masseuse.
+	HT
+Human 2 looks at Human 1
+	Clem
+You had a thing going, didn't you?
+	Bruce
+It could have been a thing.
+She always complimented me when I made strogonoff on Thursdays.
+	HT
+Human 1 looks at Human 2
+	Clem
+Maybe she was just being polite.
+	Bruce
+Now we'll never know for sure.
+END
+BlankSheetMusic
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Please, I write enough culinary music in the kitchen.
+	HT
+Human 2 looks at Human 1
+	Clem
+Listen to you.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Is it so wrong for me to take pride on what I do?
+	Clem
+You make a good omellette, I'll give you that.
+	Bruce
+Omelletes make themselves, Clem.
+	Clem
+Exactly.
+	Bruce
+Wanna take this outside.
+	Clem
+Let's keep it on the board.
+	Bruce
+Let's, jerk.
+END
+TheSandwich
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Almost as good as the sandwiches I make.
+	Clem
+Maybe better.
+	HT
+Human 1 looks at Human 2
+	Bruce
+At least you've tasted mine Clem.
+	HT
+Human 2 looks at Human 1
+	Clem
+Good point.
+	HT
+Human 2 looks at You
+	Clem
+Definitely better.
+	Bruce
+You...
+	HT
+	HT Reset
+END
+SwitchboxKey
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+So many keys.
+Unlock something with that, will ya?
+ALLEND
+END
+LockerKey2
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+All keyed in?
+What key are we in, really?
+ALLEND
+END
+Apple
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Tempting yet tantalizing.
+	Clem
+Apples aren't gonna save you now, Bruce.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Can it, Clem.
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+I can't expect one of these to fall from the upper balcony...
+And give me that eureka moment.
+	HT
+Human 1 looks at Human 2
+I need a bit more insight...
+END
+GreenSuitTop
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+Playing a concert tonight?
+	Bruce
+Thats an impressive bit of formal wear.
+	Clem
+Peter Norwood's trademark was the green suit.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Was he better at branding than DJ Bogart?
+	HT
+Human 2 looks at Human 1
+	Clem
+Norwood didn't need a soft drink company to prop him up.
+	Bruce
+Ouch.
+	HT
+Human 2 looks at You
+	Clem
+I'm just saying...
+	HT
+	HT Reset
+END
+OldBook
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+These were probably Peter's books.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Surprised no one's tried to dump them to a rare book collector.
+	HT
+Human 1 looks at Human 2
+	Clem
+Nadia doesn't let go of everything.
+ALL
+I never see her readying anything.
+Strange woman.
+ALLEND
+	HT
+	HT Reset
+END
+BreadEnd
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+I'll take credit for the pretzel buns, thank you.
+	HT
+Human 2 looks at Human 1
+	Clem
+Just because you got cozy with that bakery owner up in Plattsburg?
+	HT
+Human 1 looks at Human 2
+	Bruce
+Their supply saves me hours a day slaving over the oven.
+	HT
+	Human 2 looks at You
+	Clem
+And he wonders why this Hotel operates in the red.
+	HT
+	HT Reset
+END
+ShanoCarKey
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Not really my style to jump in someone's car.
+	Clem
+I struggle with seatbelts in general.
+	HT
+	HT Reset
+END
+BathingSuite
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+That won't fit me.
+Innapropriate.
+ALLEND
+	HT
+	HT Reset
+END
+CabbageHead
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+No offense, but people freak out when they see you walking around with that.
+	HT
+Human 2 looks at Human 1
+	Clem
+You ought to offer some to your turtle.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Rocky prefers romaine lettuce, wiht a side of dried snails.
+	Clem
+I'll bet no one appreciates your cooking more than Rocky.
+	Bruce
+That's a bet I'm willing to make.
+You wannabe whip-smart upstart.
+	HT
+	Human 2 looks at You
+	Clem
+Please.
+END
+AHistoricBook
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Another boring book leftover from Norwood's era.
+	HT
+Human 2 looks at Human 1
+	Clem
+I'll bet that book reseller in Yonksville would pay good money fo that.
+	HT
+Human 1 looks at Human 2
+	Bruce
+Another one of your money-making "ideas," Clem?
+	Clem
+I used to hustle wares at the Station.
+It's amazing what people are willing to throw money at.
+	HT
+Human 1 looks at You
+	Bruce
+Hmmm...
+END
+RecordNeedle
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+My parents junked their record player 25 years ago.
+Now they wish they'd kept it.  
+	HT
+Human 2 looks at Human 1
+	Clem
+I find that most triends emerge unexpectedly.
+The 'wrong' way to do things becomes the right way.
+	HT
+Human 2 looks at You
+Then the only way.
+	HT
+Human 1 looks at Human 2
+	Bruce
+But what if we come full circle?
+The wrong way becomes the right way.
+	HT
+Human 2 looks at Human 1
+Which creates a new 'wrong' way...
+which eventually becomes right.
+Making the old right wrong again.
+	Clem
+Now you're thinking like me, Bruce.
+	Bruce
+Don't take too much credit there, Clem.
+I did go to college, you know.
+	HT
+Human 2 looks at You
+	Clem
+Majoring in sandwich literature.
+	HT
+Human 2 looks at Human 1
+	Bruce
+With a minor in kicking your ass.
+END
+KeyWineLocker2
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+It'll open something.
+Unlock your curiosity, perhaps.
+ALLEND
+END
+TurkeyHunk
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+I'm a vegetarian.
+	Bruce
+I'm quite the opposite of a vegarian.
+But I won't touch that soon-to-be-slimy hunk of nast.
+	HT
+	HT Reset
+END
+Motorcycle_Helmet_2
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+Fast rides on small machines...
+	Bruce
+It'll never be a thing for me.
+END
+
+
+BlueMoose
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+Ah yes, my 3rd favorite drink.
+Human 2 looks at Human 1
+	Bruce
+What's your first?
+	Clem
+Club soda with lemon, of course.
+	Bruce
+And your second?
+	Clem
+Tomato juice.
+	Bruce
+Ms. Healthy over here.
+	Clem
+That's why Blue Moose is numero 3.
+	Bruce
+You ever play Blaine in Zo?
+	Clem
+Who, the Blue Mooes rep?
+	Bruce
+I hear he's pretty good.
+	Clem
+He'll do anything to win anything.
+	Bruce
+Maybe you need that kind of challenge.
+	Clem
+He drills the game down to a cascade of logical conclusions.
+And he never shakes your hand when the game is over.
+	Bruce
+Sounds fun.
+	Clem
+*groan*
+RedCube
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Clem
+Stasis of the red.
+	HT
+Human 1 looks at Human 3
+	Bruce
+Hot jammies.
+	HT
+Human 1 looks at Human 2
+	Clem
+Kiss my face.
+END
+GreenCube
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Green derpness.
+	Clem
+Blumpkinz.
+END
+BlueCube
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Bruce
+Bluuuuuuuuuuuuuu
+	Clem
+Fuck.
+END
+NULL

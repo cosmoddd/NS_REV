@@ -1,0 +1,274 @@
+﻿//Blue Moose Man stares out the window
+EyeballNecklace
+	BlueMan
+My stylist would probably not approve of that necklace.
+But my mother would.
+END
+TheRabbitTalisman
+	BlueMan
+That would look good in my fitness room.
+Above the 40-inch screen.
+I already have a mock-bust of an ancient athlete, though.
+So I think we're covered there.
+END
+TheNorwoodEtudes
+	BlueMan
+I get that certain people still want to promote Norwood, the man.
+DJ Bogart name-checks him whenever he can.
+But he doesn't easily fit into our marketing narrative.
+Which we've carefully constructed around the High End Ruminations party.
+Our client base don't know who he is.
+Their parents barely remember him.
+So this book... it's giving me cognative dissonance. 
+Please put it away.
+END
+TheNorwoodSuiteKey
+	BlueMan
+When I was young I used keys.
+But now it's all number pads and finger ID scans for me.
+END
+NorwoodsMonocle
+	BlueMan
+My sight may not be 20/20
+But my phone's text-to-speech program is flawless.
+So you can keep that relic.
+END
+KeyRoom4
+	BlueMan
+They let me have a bungalow room.
+Directly underneath us.
+Much quieter.
+END
+LuggageTag
+	BlueMan
+I don't travel with any luggage.
+I've downsized quite a lot over the past year.
+But if I wanted it back again I could just re-buy it.
+END
+CostumeShoes
+	BlueMan
+My assistant is one of the best shoe lace tie-ers in the business.
+Five seconds, no double-knots, perfectly in place all day.
+Though I do slip-ons whenever possible.
+END
+KeyLockerModulo
+	BlueMan
+A man wiser than myself once said:
+It's easier to remember key combinations...
+...than to remember where you left your keys.
+But here's what he didn't say:
+It's even easier to remember the universal reset combination.
+END
+MozzarellaBall
+	BlueMan
+The Hotel Norwood is not known for it's high sanitation standards.
+So I'd best be mindful where that cheese has been.
+Just saying...
+END
+LargeTomato
+	BlueMan
+One of the flavor lab guys came up with a tomato flavor of Blue Moose.
+Think V-9 with a tart, slightly bitter aftertaste. 
+Made it all the way to the top of product development.
+But our president, my boss, said his wife didn't like it.
+So we killed it.
+A shame, as it could have been a big seller.
+END
+DemoCD
+	BlueMan
+So you want to give that demo CD to DJ Bogart, eh?
+I guess it's worth a shot.
+These big DJs, they still listen to everything.
+Even the bad stuff, sight unseen.
+Because they know that there's bound to be a gem amongst rocks.
+And then they can take all the credit.
+So, best of luck.
+END
+ParkingPermit
+	BlueMan
+Thankfully, that's not even an issue for me.
+My driver, she's very fast, somehow never gets pulled over.
+She got me from downtown to here in under an hour, and in traffic.
+END
+SpaVoucher
+	BlueMan
+Because BlueMoose's arrangement with the hotel, I get free spa treatments.
+Unfortunately Nadia, in her infinite wisdom, fired Shirley last year.
+Maybe for the best, as Shirley gave such tubby backrubs imaginable.
+Deeply underwhelming.
+But then again, I'm doing Catherine wheel treatments, so my pain threshold is pretty high.
+END
+BlankSheetMusic
+	BlueMan
+For Blue Moose Energy Drinks, it's not just about the notes on the page.
+It's about the community that coalesces around those notes.
+And how those notes inspire that community to breathe and writhe.
+Top-selling bands beg us to use their music in our ad campaigns.
+But do they think us amateurs? 
+The idea of bottom-up marketing through forming narratives around real scenes.
+And giving those scenes something to drink...  
+We got there first.
+Brand recognition through real, deep community integration.
+Consider our relationship with High End Ruminations and Hotel Norwood as Exhibit A.  
+END
+TheSandwich
+	BlueMan
+Please...
+I'm keenly aware of how perishables get handled around here.
+I'm proud to say our product can keep for up to ten years.
+Hot, room or cold temperatures.
+If you're stocking your fallout shelter, Blue Moose and canned beans are a perfect combo.
+END
+BookOfZo
+	BlueMan
+I bounce right off games like Zo.
+Just blocks and shapes, no theme. 
+Wake me up when it's over.
+END
+SwitchboxKey
+	BlueMan
+We use universal keycards and iris scans at the company HQ.
+Put that antiquated unlocking technology away, it sort-of offends me.
+END
+LockerKey2
+	BlueMan
+At home I have a safe that's unlocked using water pressure and a heart monitor.
+I look at an old-fashioned key like that and I laugh.
+END
+Apple
+	BlueMan
+Our flavor specialists would say apple is a good direction for a spin-off flavor.
+Our marketing team would say it reminds them too much of thier childhood lunchbox.
+So we arrive at an impasse.
+END
+GreenSuitTop
+	BlueMan
+That's something my great-uncle would wear to his social club.
+Only this doesn't reek of cigar smoke.  
+END
+OldBook
+	BlueMan
+Listen, I read Advertiser's Quarterly, Traveller's Quarterly, and the Tentpole.
+And my aggregated socials feed, naturally.
+Anything else is unnecessary.
+END
+BreadEnd
+	BlueMan
+Pretzels and pretzel-related foods cause uncontrollabe excitement.  
+It's a known fact.
+END
+ShanoCarKey
+	BlueMan
+I already have a driver.
+I don't need a lift anywhere.
+Not this weekend, anyways.
+END
+FaceMask
+	BlueMan
+Our company helped break High End Ruminations wide, alongside DJ Bogart.
+With that in mind, I'd rather they know it's really me on the dancefloor.
+END
+CabbageHead
+	BlueMan
+That's probably the last thing I need in my life right now.
+END
+AHistoricBook
+	BlueMan
+I'll have you read that to me before bedtime sometime.
+END
+RecordNeedle
+	BlueMan
+My record player only takes a proprietary D93 cartridge.
+It's wildly overpriced but the dealer told me it would sound the best.
+I find myself breaking out my card reflexivly.
+Nice problem to have, I guess.
+END
+KeyWineLocker2
+	BlueMan
+Not everything needs to be locked away, you know.
+The more physical objects we share, the more we realize we don't need them.
+I don't own Blue Moose anymore than you do.
+Once it's in your mouth, it's yours.
+It's your taste buds, your imbibing experience.
+The key to your mouth is through your mind.
+END
+TurkeyHunk
+	BlueMan
+One day I'll live on a turkey farm north of Plattsburg.
+It's a dream I've had since before my start in the beverage industry.
+What I'll do there, I have no idea.
+But turkeys are peaceful birds.
+And turkey egg omelletes are underrated.
+END
+Motorcyle_Helmet_2
+	BlueMan
+Someone else seeks the thrills of speed and derring-do, not me.
+I prefer the thrills of line graphs and bar charts, rising and falling. 
+Those I'll ride with my eyes and mind, anytime.
+END
+KeyBruceCloset
+	BlueMan
+A key opens doors.
+A key phrase opens minds.
+END
+FakeMuttonChops
+	BlueMan
+A busines rival once said I should grow out my mustache and twirl it.
+Needless to say, he's no longer at the company and I got promoted.
+Many times over.
+END
+KeyWineLocker2
+	BlueMan
+Why don't you go grab some of that Pluny the Younger.
+Such a good pour.
+I promise you'll have free Blue Moose for a year.
+I'll be down by the jacuzzi.
+END
+BathingSuit
+	BlueMan
+Oh, buddy, you just made my night.
+EVENT
+GIVE ITEM
+BathingSuit
+Thanks so much, I really need a swim.
+I usually don't go down there without my favorite beverage.
+And no, it's not what you're thinking.
+I keep a case of Pluny the Older in my private chiller in the kitchen.
+I get it hand-delivered from the west coast in an ice-box.
+EVENT
+GET ITEM
+KeyWineLocker2
+Here's the key.  Why don't you go grab it for me.
+I promise you'll have free Blue Moose for a year.
+I'll be down by the jacuzzi.
+EVENT
+ACTIVATE
+~
+This might be my weekend here, after all...
+EVENT
+ACTIVATE
+~
+LOOP CONTROL
+Loop 1
+Honestly, I'll be in a jacuzzi soon.
+END
+TheNorwoodEtudes
+	BlueMan
+Wut
+END
+AHistoricBook
+	BlueMan
+What is this thing?
+END
+AnotherApple
+	BlueMan
+It's a thing.
+END
+	BlueMan
+Yo.  What is that?
+ZebraPants
+	BlueMan
+Someday my stylist will embrace animal-derived threads.
+And I do look forward to that day.
+END
+NULL

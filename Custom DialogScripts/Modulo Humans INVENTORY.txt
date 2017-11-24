@@ -1,0 +1,292 @@
+///
+///
+Leaving
+	Human 2
+I'm heading to the bar.  You coming, Lucy?
+	Human 1
+In a bit.  I still haven't really checked out the grounds here.
+	Human 2
+I know this place like the back of my hand.  I'll give you a tour.
+	Human 1
+I like getting lost and finding my own way.  
+	Human 2
+Ok, Miss Solitary Sojourn.  See you at the bar.
+	Human 1
+See you...
+END
+Apple
+	HT
+	Human 1 looks at You
+	HT
+	Human 2 looks at You
+	Human 2
+I didn't order the apple single.
+It's Blue Moose I want.
+Man, this apple isn't even sliced.
+What kind of ship is Nadia running here?
+	Human 1
+We appreciate the gesture, but...
+We'll order a pie or something later.
+	HT
+	Human 2 looks at Human 1
+	Human 2
+Want me to get us some vanilla ice cream?
+Whipped cream, chocolate sprinkles?
+I got it all in my cooler.
+	HT
+	Human 1 looks at Human 2
+	Human 1
+Maybe later.
+	HT
+	Human 2 looks at You
+	Human 2
+Amateur apple hour over here.
+I'll show you how it's done...
+	HT
+	HT Reset
+END
+TheRabbitTalisman
+	HT
+	Human 1 looks at You
+	HT
+	Human 2 looks at You
+	Human 2
+What are you, a rep from the People's Flea-Market?
+I wouldn't even put that in my garage.
+	HT
+	Human 1 looks at Human 2
+	Human 1
+I think it looks fine, Courtney.
+Maybe as a lawn ornament.
+	HT
+	Human 2 looks at Human 1
+	Human 2
+Sure, as an addition to my croquet set.
+For when I miss a shot and need to release some tension.
+	HT
+	HT Reset
+END
+AnotherApple
+	HT
+	Human 1 looks at You
+	HT
+	Human 2 looks at You
+ALL
+Another apple?
+Get that apple outta my face.
+ALLEND
+	Human 1
+Enough with the apples.
+	Human 2
+What she said.
+END
+INTURRUPT
+	HT
+	Human 2 looks at You
+	HT
+	Human 1 looks at You
+	Human 2
+Ah, service at last!
+	HT
+	Human 2 looks at Human 1
+	Human 2
+The Hotel Norwood serves their guests anywhere on the grounds, Lucy.
+	HT
+	Human 1 looks at Human 2
+	Human 1
+I'm not sure this person is affiliated with the Hotel...
+	HT
+	Human 2 looks at You
+	Human 2
+Could you bring us a case of Blue Moose?  I'm parched.
+	HT
+	Human 2 looks at Human 1
+	Human 1
+You know you could get us in trouble for harassing other guests, Courtney.
+	Human 2
+Nonsense.  
+	HT
+	Human 2 looks at You
+	Human 2
+Blue Moose, please!
+But just so we're clear, the Modulo Group is *not* tipping staff this weekend.
+Any issues and you can take it up with Nadia.
+	HT
+	Human 1 looks at Human 2
+	Human 1
+You worked out a no-tipping policy with Nadia?
+	HT
+	Human 2 looks at Human 1
+	Human 2
+I think it's important that the transition starts pre-emptively.
+	Human 1
+You're really that confident about this board meeting, huh?
+	HT
+	Human 2 looks at You
+	Human 2
+And I'll be even more confident if I get some Blue Moose in my gullet.
+*ahem*
+	HT
+	HT Reset
+END
+BlueMoose
+	HT
+	Human 1 looks at You
+	HT
+	Human 2 looks at You
+	Human 1
+Just in time, a case of the good stuff.
+EVENT
+GIVE ITEM
+BlueMoose
+	Human 1
+Whew, just what I needed, honestly.
+	Human 2
+Stranger, could you do us a favor and get me my flask out of my locker?
+EVENT
+GET ITEM
+KeyLockerModulo
+	Human 2
+Here's the key.
+The hotel gives me a lot of knick-knacks, since I've been staying here often.
+You're welcome to whatever you find in the stash.  
+Just grab that flask and meet us at the bar.
+LOOP CONTROL
+Leaving
+END	
+ParkingPermit
+	HT
+	Human 1 looks at You
+	HT
+	Human 2 looks at You
+	Human 2
+Well, isn't that nice you were able to 'acquire' your own parking pass.
+	HT
+	Human 1 looks at Human 2
+	Human 1
+Come on, Simon.  Ours are on the company dime, you know that.
+	HT
+	Human 2 looks at Human 1
+	Human 2
+Well isn't it great, being part of a company that pays for everything?
+	Human 1
+Yeah, sure.
+	Human 2
+It's like dancing with a bee's nest, never having to worry about being stung.
+	Human 1
+People do that?
+	Human 2
+I'm actually doing it next saturday if you want to join my bees' nest dancing class.
+	Human 1
+What's your problem, Simon?
+	HT
+	Human 2 looks at You
+	Human 2
+I don't like when some stranger waves their parking pass in my face like its a badge of honor.
+	Human 1
+What do you have against parking passes?
+	HT
+	Human 2 looks at Human 1
+	Human 2
+When I was 13, I had to park my dad's dry-cleaning delivery truck in a lot seventeen stories deep.
+It was in one of those skyscrapers downtown they had just finished building.
+It was so new that the builders hadn't put directional signs anywhere in the lot.
+	Human 1
+I did a term paper on the contractors back then.  Scandal after scandal.  
+	HT
+	Human 2 looks at You
+	Human 2
+Well I got lost trying to find the elevator.
+Eventually the meter ran out.
+With no cell service, my folks thought I'd been kidnapped or something.
+	HT
+	Human 2 looks at Human 1
+	Human 2
+From what I'm told, the police found me the next morning.
+They found me passed out, my arms around a traffic cone.
+I got grounded for a month and my allowance took a hit.
+	Human 1
+Sorry to hear that, Simon.  
+	Human 2
+Needless to say, I still get a little touchy around parking permits.
+	Human 1
+Just a little?
+	Human 2
+Yeah, just a fucking little.
+END
+///
+SwitchboxKey
+	HT
+	Human 1 looks at You
+	HT
+	Human 2 looks at You
+	Human 1
+Look, stranger, I'm not much of a 'key' gal.
+All of my keys have been digitized so that any relevant door responds to my thumbprint.
+	HT
+	Human 2 looks at Human 1
+	Human 2
+I thougth that techology was vulnerable to skin fabrication hacks.
+	HT
+	Human 1 looks at Human 2
+	Human 1
+Where'd you hear that?
+	Human 2
+I read a big expose' in GetConnected the other week.
+	Human 1
+You really buy into all their alarmist malarkey?
+	Human 2
+Every monday at noon, soon as it comes on my news feed.
+	Human 1
+How can you use any consumer product knowing GetConnected is going to eventually do a hit piece on all of them?
+	Human 2
+Well, I don't use security-related consumer products, Bernice.    
+	Human 1
+You code your own alarm system from scratch, then?  Build your own cameras?
+Set up an infrared system on the roof of your apartment?
+	Human 2
+Much simpler than that.  I literally have numerical padlocks on everything I own, each requiring a ten numeral code.  
+Transferring my memorization skills from the Group into my security system...
+That's something you'd do well to study, Bernice.
+	Human 1
+I'll think about it.  So not into actual keys then, either?
+	Human 2
+I always lose them.
+END
+GreenCube
+	Human 1
+That's a cool Green Cube you got there.
+	Human 2
+Yeah, damn, who'd have thougth it would be that beautiful.
+I left mints in my room.
+	Human 1
+FML
+END
+RedCube
+	HT
+Human 2 looks at Human 1
+	Human 2
+Red cubes are for pansies, dawg.
+	HT
+Human 1 looks at Human 2
+	Human 1
+Tell me about it.
+	HT
+Human 2 looks at You
+That was dope.
+	Human 2
+Fuck dis.
+	HT
+Human 1 looks at You
+	Human 1
+Yummo	
+	HT Reset
+	HT Reset
+END
+BlueCube
+	Human 1
+Blah blah blue.
+	Human 2
+Zbooby zboo.
+END
+NULL

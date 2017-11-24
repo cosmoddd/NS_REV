@@ -1,0 +1,40 @@
+stuff
+BEGIN
+	RD
+My father practically grew up here.
+His mother, my grandmother, would stay every summer,
+From 1934 to about 1968. 
+Sweating out one of Peter's extremely diffucult etudes.
+She was in his circle.  
+No air conditioning. 
+Peter yelling at everyone.
+Good times.
+BREAK
+	RD
+I don't really mind that I wasn't able to inherit my father's talents.
+It's almost like he soaked them all up.
+And absorbed them, leaving nothing to give back.
+My grandmother, on the other hand...
+She was generous with her gifts.
+She taught my father how to play the harp, with Peter's encouragement.
+But when I was younger, my father wouldn't let me play a damn thing.
+In light of what's happened in recent times, I guess it was a prescient decision.
+BREAK
+	RD
+Peter Norwood gets a reputation for being tempestuous.
+But really he just had high standards.
+My father, in his professional life, had to suffer a lot of fools after Norwood disappeared.
+If only he'd posessed an ounce of the fire Norwood posessed.
+BREAK
+	RD
+I'm not really supposed to tell anyone this, 
+but I have to confess:
+I've been summoned to be a part of a panel.
+At this Title 3 hearing tomorrow.
+I just want this to be a clean, fair, no-nonsense meeting.
+I'll give both sides a fair shake, 
+but then I'm getting the hell back to Yonksville with my dad.
+It was a nice stay, 
+but this place is too much for either of us.
+END
+NULL

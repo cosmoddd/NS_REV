@@ -1,0 +1,128 @@
+﻿//  dialog of the couple
+// 
+BEGIN
+	Person A
+We should have never taken that left, Margie.
+	Person B
+Yeah, 40 miles later and where the hell are we?
+	Person A
+I think this is the Norwood Hotel.
+	Person B
+Really?  This place?
+	Person A
+You don't usually seem so surprised.
+	Person B
+Oh, it's just that I read about it in my Humanities courses.
+Multiple readings.  Multiple teachers.
+This was an answer to several quizzes I barely passed back then.
+	Pause 3
+	Person A
+Well here it is.  It's even marked here on my map, a big black star.
+	Person B
+How old is that map?
+	Person A
+Maybe twenty years?
+	Person B
+Figures.  We should get a room.
+	Person A
+I don't think we could afford to stay here.
+	Person B
+Hans, this is not the time to be frugal.  It's late!
+	Person A
+You don't understand.  This place is... 
+Not the kind of place you just get a room.
+	Person B
+Look, I'm sorry we stayed at that one hotel that charged by the hour, ok?
+	Person A
+I forgave you for that already.
+Bottom line, this place is too expensive for us.
+	Person B
+A year ago you wouldn't have said that.
+	Person A
+A year ago I couldn't have taken bike trips like this.
+I'd still be at the office.
+	Person B
+You keep trying to convince yourself you did the right thing.
+	Person A
+Five years I gave to the Modulo Group.
+	Person B
+Not a terribly long time.
+	Person A
+It felt twice as long.
+But when I quit, people kept asking 'are you really sure?'.
+	Person B
+You said you felt bad that they just couldn't accept it.
+	Person A
+They struggled with the idea that someone could leave voluntarily.
+	Person B
+Are you going to seek out a new gig soon?
+	Person A
+I know I've been reluctant.
+My whole financial picture is modest, I know.
+	Person B
+You had to sell your turntables to pay rent last month.
+	Person A
+I barely used them.  
+And this time away from that whole environment has been very...
+It's opened me up in a lot of ways.
+	Person B
+You can always go back to school.
+We can pretend we met in college.
+	Person A
+Let's not go down that road again.
+I'm still decompressing from my time at the Modulo Group.
+And the truth is... I think they're all here.  
+	Person B
+Who, your ex-colleagues?  
+	Person A
+They're on a business trip.
+Fact-finding.
+	Person B
+Up at the Norwood Hotel?  
+I heard they were planning an expansion but... here?
+	Person A
+Yeah.  Coincidence, huh?
+	Person B
+Hans, you can't seem to get away from your old work.
+We take these long rides to clear your head
+and you're right back where you started.
+	Person A
+I know, I can't run away from myself.
+But there's something else.
+	Person B
+Yes?
+	Person A
+We might be able to catch DJ Bogart spinning records.
+He's down in the basement. 
+	Person B
+I'm not one for dancing, Hans.
+	Person A
+It's cheaper than sleeping.
+And this is a very special event tonight. 
+I mean, it's DJ Bogart!
+	Person B
+I'm surprised there aren't bodyguards guards swarming the place.
+The guy is a lightning rod.
+That AV set he played at the Circus...
+	Person A
+DJ Bogart is always in total control.
+He doesn't incite the crowd, he reflects their uncertainties, he educates.
+	Person B
+His shows attract the wrong crowd.
+	Person A
+His shows attract a necessary crowd.
+	Person B
+Necessary for what?
+	Person A
+You'll find out.  Shall we head up?
+	Person B
+What about your colleauges at the Modulo Group?
+	Person A
+Honestly, once I hit that dancefloor, nothing else matters.
+I'm getting the wind back in my sails, let's go.
+	Person B
+Um, I just want to check one thing on the map...
+	Person A
+Clock's ticking, Margie...
+END
+NULL

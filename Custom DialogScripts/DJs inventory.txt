@@ -1,0 +1,25 @@
+stuff
+DemoCD
+	Human 1
+Hmmmm... way too many tracks on this demo.
+	Human 2
+I see a few scratches on the disc.
+	Human 1
+Will this even play?
+	Human 2
+I'm not sure DJ Bogart is going to want this.
+	Human 1
+Way Too busy.
+	Human 2
+You'd need to do something outrageous to get his attention.
+	Human 1
+I remember once someone tried to get his attention by bringing a chicken to the dancefloor.
+	Human 2
+That was... fun.
+END
+NULL
+	Human 1
+I really don't need to see that around here.
+	Human 2
+Get that away from me.
+END

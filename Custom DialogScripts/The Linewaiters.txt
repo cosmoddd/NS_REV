@@ -1,0 +1,29 @@
+//  dialog between two linewaiters.  It's hard out there..
+// 
+BEGIN
+	Linewaiter 1
+How long has it been?
+	Linewaiter 2
+Two hours.
+	Linewaiter 1
+You know we were told it was costume-only, right?
+	Linewaiter 2
+I was also told DJ Bogart does that from time-to-time to thin out the crowd.
+	Linewaiter 1
+"False cancelling."  Isn't that just a rumour?
+	Linewaiter 2
+Three months ago, my cousin tried to get in.  It was supposedly "cancelled."
+She went anyway.  It definitely wasn't cancelled. 
+She had the best night of her life. 
+	Linewaiter 1
+I mean, it's not like I can't hear music coming through those doors.
+	Linewaiter 2
+I know, right?  I think it's worth holding out.
+	Linewaiter 1
+Considering how long it took us to get out here, we don't really have a choice.
+	Linewaiter 2
+So close, Arthur...
+	Linewaiter 1
+So close... 
+END
+NULL

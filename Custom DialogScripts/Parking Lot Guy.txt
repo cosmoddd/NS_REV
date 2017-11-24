@@ -1,0 +1,59 @@
+//  dialog of the parking lot guy
+// 
+BEGIN
+	Cowboy
+This party tonight, downstairs in the hotel basement.
+"High End Ruminations."
+DJ Bogart back from his grand tour.
+I still remember when he had to beg for gigs.
+The only place that would take him was the Hotel Norwood.
+They'd already laughed him out of the city.
+Funny what a difference a few years makes.  
+BREAK
+	Cowboy
+You might want to get yourself settled before going, though.
+Dottie will help you check in.
+Just as a warning...
+People might mistake you for one of the staff.
+Don't take it personally, you just have the look.  
+You might want to even consider lending a helping hand.
+We could use it.
+Real professional operation here at the Hotel Norwood, ha!
+BREAK
+	Cowboy
+For me, it all started with a long hike and a wrong turn.
+I walked through the front doors up yonder, no idea who Norwood was or anything.
+By my luck, people thought I worked here, so I played along.
+I'm still playing along.
+BREAK
+	Cowboy
+I remember my first weekend here.
+The office over-ordered a supply butter.
+It came to us in this massive 20-foot cube.
+So some of the guests started to use it as a slide.
+Human bodies carving out a butter mountain.
+END
+
+High End Ruminations started as a joke.
+The goal was to play the weirdest music and not give a fuck.  
+Little did we know it would cause this thing.
+END
+BREAK
+	Cowboy
+I always felt like the Board should have gifted this place to the city.
+Traversing the heights of independent nodes and giggles.
+Enjoy your stay, ok?
+END
+Wonderful
+	Cowboy
+I find myself thinking through this whole mess and wondering.
+What's the endgame?
+END
+ParkingPermit
+	Cowboy
+Nothing excites me more than a trip to the lamination machine.
+Look, seeing as you don't have a car...
+You might as well give that back to Dottie when you see her.
+Actually, I'll take it.
+END
+NULL

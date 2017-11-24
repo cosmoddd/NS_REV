@@ -1,0 +1,8 @@
+stuff
+BEGIN
+	Belinda
+Some forty years ago.
+Peter Norwood rocked this library like a boss.
+It was beautiful.
+END
+NULL

@@ -1,0 +1,55 @@
+//  dialog of the parking lot guy
+// 
+BEGIN
+	Cowboy
+For me, it all started with a long hike and a wrong turn.
+I walked through the front doors up yonder, no idea who Norwood was or anything.
+By my luck, people thought I worked here, so I played along.
+I'm still playing along.
+BREAK
+	Cowboy
+Just as a warning...
+People might mistake you for one of the staff.
+Don't take it personally, you just have the look.  
+You might want to even consider lending a helping hand.
+We could use it.
+Real professional operation here at the Hotel Norwood, ha!
+BREAK
+	Cowboy
+Dottie will get you sorted at the front desk.
+You'll need your reservation number handy.
+Dottie will sort you out there, too.
+She's good at sorting, that Dottie.
+BREAK
+	Cowboy
+As you may have heard, DJ Bogart is back from a non-stop world tour.
+It's a homecoming victory lap at his party, High End Ruminations.
+I still remember when that crew had to beg for gigs.  
+We eventually let those lunatics have the basement, reluctantly.
+And then, boom.
+It was nuts.  No one knew what they were doing.
+They still don't.
+BREAK
+	Cowboy
+I remember my first weekend here.
+The office over-ordered a supply butter.
+It came to us in this massive 20-foot cube.
+So some of the guests started to use it as a slide.
+Human bodies carving out a butter mountain.
+END
+DJ Bogart started High End Ruminations on a lark.
+The goal was to play the weirdest music and not give a fuck.  
+Little did we know it would cause this thing.
+END
+BREAK
+	Cowboy
+I always felt like the Board should have gifted this place to the city.
+Traversing the heights of independent nodes and giggles.
+Enjoy your stay, ok?
+END
+Wonderful
+	Cowboy
+I find myself thinking through this whole mess and wondering.
+What's the endgame?
+END
+NULL

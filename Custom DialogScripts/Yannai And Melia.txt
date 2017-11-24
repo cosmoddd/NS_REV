@@ -1,0 +1,72 @@
+	//  dialog between two linewaiters.  It's hard out there..
+// 
+BEGIN
+	Melia
+Nothing you say is going to sway me, Belinda.
+	Yannai
+Shelly, we need to call it a night.  You haven't slept in days.
+	Melia
+If you knew the pressure I was under...
+	Yannai
+I do know the pressure you're under and I still think you need to call it a night.
+	Melia
+I need to have a coherent stance tomorrow.
+	Yannai
+You're fine.  The board will side with us, clearly.
+	Melia
+I think a little historical perspective on this place could ground my arguments.
+	Yannai
+You want me to see if the library has anything?
+	Melia
+No, I need your moral support.
+	Yannai
+You're that uncertain?  This hearing is practically a formality for us.
+	Melia
+Between the emails I'm getting...
+and the fact that Alan Miranda is in the next room...
+	Yannai
+Don't worry about him.  Let's just figure out how to get you the info you need.
+	Melia
+So I can finally get a night's rest...
+BREAK
+	Melia
+Miranda famously never loses hearings like these.
+Even when the evidence is stacked against him.
+He wins over the deciders with some kind of crazy angle.
+	Yannai
+I read the transcript Bruno and Joe's case. 
+Prime waterfront real estate property.  
+	Melia
+Everyone thought that place was history.  
+But then Miranda gave this impassioned argument about fried clams.
+Totally flipped the comittee from No to Yes.  To a man.  
+To this day, that place is still stinking up the waterfront.
+	Yannai
+That's why having some historical context on this place might be useful. 
+	Melia
+Hmmm...
+BREAK
+	Melia
+You were going to play z-tennis tomorrow morning, right?
+	Yannai
+Where there's a court, I always play.
+	Melia
+Great.  I think Alan plays in the morning as well.  
+See if you can get on the court with him.  
+Mixed doubles.
+	Yannai
+What's that got to do with the hearing?
+	Melia
+Don't worry about that.  Just... play him in some mixed doubles.  
+See how it goes.  
+	Yannai
+I don't know how all this fits...
+	Melia
+Trust me, you'll have done me a huge favor.
+	Yannai
+For my z-tennis skills, eh?  
+	Melia
+For your z-tennis skills.  
+Precisely.
+END
+NULL

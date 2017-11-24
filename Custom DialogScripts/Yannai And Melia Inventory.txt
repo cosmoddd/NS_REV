@@ -1,0 +1,282 @@
+﻿//  dialog between Melia and Yannai.  It's hard out there..
+//
+
+AfterSandwich
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+That sandwich is gonna taste good.
+	HT
+Human 2 looks at Human 1
+Eh, Belinda?
+	HT
+Human 1 looks at Human 2
+	Yannai
+It will once I douse it in Hova's Hollandaise.
+	Melia
+You really like to add more flavor to everything, don't you?
+	Yannai
+Everything is bland without sauce.  
+	Melia
+You think your tastebuds might be overworked?
+	Yannai
+I think everyone elses' need to awaken to new flavors.
+	Melia
+I'll think on that.
+END
+AfterBook
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+You know I'm feeling a little peckish.
+	Yannai
+Me too.
+	Melia
+You're pretty helpful, Stranger. Maybe you can act on that.
+	Yannai
+Just maybe...
+ALL
+Ideas, layered on top of each other.
+Mm.. food.
+ALLEND
+END
+INTURRUPT
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+Excuse me... you need to tell your boss to get back in the kitchen.
+	HT
+Human 1 looks at Human 2
+	Yannai
+I'm hungry.
+	HT
+Human 1 looks at You
+	Yannai
+We'd like to order a sandwhich.
+Turkey, mozzarella cheese.
+Chef Bruce decided to check out a few hours ago.
+	HT
+Human 2 looks at Human 1
+	Melia
+He cares more about his board game habit than his job.
+	HT
+Human 2 looks at You
+	HT
+Human 1 looks at Human 2
+	Yannai
+His ramen was straight-up gloopy last night.
+	HT
+Human 1 looks at You
+Do us a favor and pick up the slack.
+This meeting tomorrow is way too stressful without a good, Hotel Norwood Sandwich Supreme.
+BREAK
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+You work up an appetite when preparing a deposition against Alan Miranda.
+	Yannai
+He's the only reason we're here at all.  
+Otherwise, this property acquisition would've been a done deal last month.
+BREAK
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+Just so we're clear, we can't confirm or deny whether current staff will remain in place after the acquisition..
+	Yannai
+You may have heard of Modulo Group's Zero Redundancy Policy.
+So we're encouraging all current staff make themselves extra useful as we prepare for the management transition.
+	Melia
+Useful like Bruce is useful?
+ALL
+Chewy pizza, tubby steak...
+Gloopy ramen, soft boiled hot dogs...
+ALLEND
+END
+AHistoricBook
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+What an intriguing book you brought...
+EVENT
+GIVE ITEM
+AHistoricBook
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+The information is basically the missing link I need.
+	Yannai
+Are you getting hungry, Michelle?
+	Melia
+Yeah.  Hmmm...
+	Yannai
+Hmmm...
+LOOP CONTROL
+AfterBook
+END
+AnotherApple
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+Just another apple to pass the time.
+	Yannai
+Check the rhyme.
+END
+OldHistoryBook2
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+What an extraordinary book you brought me...
+The information is basically the missing link I need.
+	Yannai
+Are you getting hungry, Michelle?
+	Melia
+Yeah.  I could use a sandwich.
+	Yannai
+Why don't you do us a favor and get us a sandwich?
+	Melia
+Yeah, I think as guests we can get sandwiches made at all hours.
+	Yannai
+Yeah...
+UnnecessaryBook
+	Melia
+I don't need this book.
+I've already got the info I need.
+	Yannai
+Yep.
+END
+TheSandwich
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+This sandwich is exactly what I need.
+EVENT
+GIVE ITEM
+TheSandwich
+	HT
+Human 1 looks at Human 2
+	Yannai
+You wanna split this, right?
+	HT
+Human 2 looks at Human 1
+	Melia
+Sure.  I'll be up in the library. 
+Probably a few more books to look up before I call it a night.
+	Yannai
+You know I brought some special hotsauce for the sandwich.
+	Melia
+Hova's Hollandaise?
+	Yannai
+I got a case.  It's in the room.
+	Melia
+Grab it and meet me in the library.
+EVENT
+DO
+MeliaYannaiNext
+EVENT
+ACTIVATE
+~
+	Yannai
+Ok... I just need a few minutes to ease out of this chair.
+	Melia
+You're always easing in and out of chairs.
+	Yannai
+That's why you hired me.
+LOOP CONTROL
+AfterSandwich
+END
+BlueMoose
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+You know that stuff is terrible for you.
+	HT
+Human 2 looks at Human 1
+	Yannai
+I can't function without it.
+	HT
+Human 1 looks at Human 2
+	Melia
+It says it's made with 'natural' ingredients.
+	Yannai
+I taste the naturalness.
+	Melia
+You usually beleive what you read on a can?
+	Yannai
+The can's so small, it can't hurt me.
+	Melia
+I've seen you fit four at a time in your glove compartment. 
+	Yannai
+One for each meal, plus one for fun.
+	Melia
+I'm surprised you don't have a condition.
+	Yannai
+My parents lived on an artist's farm out in Blatsby.  
+They made their own tempeh.
+Experimented with all kinds of flavors and combos.
+Most meals I didn't have a choice.
+As soon as I went off to college, it was Stew Glennards' ice cream every day.
+	Melia
+And now it's Blue Moose meal?
+	Yannai
+And between meals.
+	Melia
+Have you gotten yourself checked out by Dr. McTavish?
+	Yannai
+Jane keeps saying I can ingest Blue Moose whenever I want.  
+As long as I keep up my work regimen.
+	Melia
+Is that so...
+END
+RedCube
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Yannai
+Give me the red cube
+	Melia
+Eat the rich
+END
+GreenCube
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Melia
+Green funk pasta
+	Yannai
+Dutiful madness
+END
+BlueCube
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Yannai
+Coldness is a jar of blue.
+	Melia
+True
+END
+NULL

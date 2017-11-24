@@ -1,0 +1,147 @@
+stuff
+BEGIN
+	HT
+	Dave Looks At Jeremy
+	Jeremy
+Where do you think they keep the Norwood Etudes?
+	HT
+	Mike Looks At Jeremy
+	Mike
+Behind glass, man.
+	HT
+	Dave Looks At Jeremy
+	Dave
+The promotors knew you wanted to get a look at the Norwood Etudes, Jer.  
+	Mike
+Man, you can't play that shit.  
+	HT
+	Mike Looks At Dave
+	Mike
+No one can.  
+It's unusual that the promotors would put us up in a place like this.
+	HT
+	Dave Looks At Mike
+	Dave
+Yeah, they normally have us stay in barns if they'll save money.
+	HT
+	Jeremy Looks At Dave
+	Jeremy
+Remember Jane's barn?  That was pretty nice, actually.  
+	HT
+	Dave Looks At Jeremy
+	Dave
+I was forced into the shower after we got home.
+	Jeremy
+Tempted as I am to check out the Norwood Etudes,
+I need my hands in good working order for this tour.  
+I'm not making the same mistake I made at at Cubeland. 
+	HT
+	Mike Looks At Jeremy
+	Mike
+Let's leave Cubeland in the rear view. 
+	HT
+	Dave Looks At Mike
+	Dave
+You know, there was an article in the Coil about Norwood a few months back.  
+	HT
+	Mike Looks At Dave
+	Dave
+Vuvos is re-issuing his discography.  Some kind of deluxe vinyl set.  
+	HT
+	Jeremy Looks At Mike
+	Mike
+That's all the Vuvos label does now.  Sell over-priced vinyl deluxe sets.
+	Jeremy
+Whatever they can do to help people remember Norwood, the man, though, is great.
+	HT
+	Dave Looks At Jeremy
+People don't even know.
+	Dave
+Norwood lived here, right?
+	HT
+	Jeremy Looks At Dave
+	Jeremy
+He didn't just live here.
+	HT
+	Dave Looks At Mike
+	Jeremy
+This place was the center of his musical universe. 
+	HT 
+	Mike Looks At Jeremy
+	Jeremy
+Piano Works VII and VIII were written for him here.
+	HT
+	Mike Looks At Dave
+	Jeremy
+Xenokos was living here for a few summers.  Nobody knows that.
+But there's a picture of him on the wall. 
+	HT
+	Jeremy Looks At Mike
+	Dave
+We should see if they'll let us rehearse in his auditorium.
+No one uses it any more.
+	HT 
+	Dave Looks At Jeremy
+	Dave
+What happened to Norwood, anyway?
+	HT
+	Jeremy Looks At Dave
+	Jeremy
+Vanished. In '73.  
+He had already withdrawn from performing a year earlier.
+Then he was gone.
+	HT
+	Mike Looks At Dave
+	Jeremy
+No note, no clues, nothing.
+	HT
+	Mike Looks At Jeremy
+	Mike
+That's it?
+	HT
+	Jeremy Looks At Mike
+	Jeremy
+It was a big unsolved mystery in its day.
+Plenty of theories, no hard evidence.
+	HT
+	Dave Looks At Mike
+	Dave
+Well, whatever happened forty years ago, nobody really cares now.
+	HT
+	Jeremy Looks At Dave
+	Jeremy
+As you can see, this place has been kept in 'historical condition.'
+	HT
+	Dave Looks At Jeremy
+	HT
+	Jeremy Looks At Mike
+	Mike
+Yeah, they never renovated and it looks like it.
+	HT
+	Dave Looks At Mike
+	Dave
+I hear the pool is warm.  I'm heading there tomorrow.
+	Jeremy
+Before rehearsal, of course.
+	HT
+	Dave Looks At Jeremy
+	HT
+	Jeremy Looks At Dave
+	HT
+	Mike Looks At Dave
+	Dave
+Of course, dude.  I never miss rehearsal.
+	HT
+	Mike Looks At Dave
+	Mike
+I'm gonna make field recordings in the woods.
+END
+AfterEtudes
+	Dave
+Impressive moves from the stranger.
+	Jeremy
+Indeed.
+	Mike
+Wish I could say the same...
+END
+NULL

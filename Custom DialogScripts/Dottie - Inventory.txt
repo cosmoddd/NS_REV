@@ -1,0 +1,181 @@
+﻿//
+SpaVoucher
+	//Dottie looks at You
+	//Dottie
+Oh, wow, I haven't seen one of those in a while.
+	//Sandro looks at You
+	//Sandro
+Yeah, no one comes here for the Spa Treatment anymore.
+	//Dottie
+Such a shame Nadia had to let the masseuse go.
+	//Sandro looks at Dottie
+	//Sandro
+You really liked him, didn't you?
+	//Dottie looks at Sandro
+	//Dottie
+I liked how he worked my lower lumbar.
+	//Sandro
+Hold on... when was the last time we cleaned out the lockers?
+	//Dottie
+Years.
+	//Sandro looks at You
+	//Sandro
+Stranger, if you find anything in the lockers, we apologize.
+	//Dottie looks at You
+	//Dottie
+It's just... an unusual request, coming for a spa treatment.
+No matter.
+EVENT
+GIVE ITEM
+SpaVoucher
+EVENT
+GET ITEM
+LockerKey2
+	//Sandro
+Here's the key one of the lockers.
+I'm not sure what you'll find in there.
+	//Dottie
+Probably just a towel and some sandals.
+	//Sandro
+Sorry, no masseuse.
+	//Dottie
+You get what you pay for...
+END
+BlankSheetMusic
+	//Sandro
+That's pretty old.
+	//Dottie
+Old and gold.
+END
+LuggageTag
+	//Dottie looks at You
+	//Sandro looks at You
+	//Sandro
+Strange... I didn't notice you store luggage with us before...
+	//Dottie looks at Sandro
+	//Dottie
+What does it matter?  
+	//Sandro looks at Dottie
+	//Sandro
+Remember how Nadia lectured us on all the theft reports we've been getting?
+	//Dottie looks at Sandro
+	//Dottie
+I must have slept through that lecture.
+Besides, most of that stuff's probably turned up in the Lost and Found.
+	//Sandro
+Right...
+EVENT
+GIVE ITEM
+LuggageTag
+	//Sandro looks at You
+	//Dottie looks at You
+	//Sandro
+Okay, stranger.  We'll have your bag in a moment.
+Behold, our state-of-the-art luggage retrieval system.
+	//Dottie looks at You
+	//Dottie
+It's quite exceptional.
+	//Sandro
+Wait for it...
+//PLAY COOL BAG DROPPING SOUND
+	//Dottie looks at You
+	//Dottie
+Your suitcase has been retrieved.
+END
+AHistoricBook
+	//Dottie
+Never read that!
+Nope.
+END
+DemoCD
+	//Dottie looks at You
+	//Sandro looks at You
+	//Dottie
+So you wanna get that demo CD to DJ Bogart, eh?
+	//Sandro looks at Dottie
+	//Sandro
+Quite bold of you.
+Good luck getting through to DJ Bogart.
+He's reaching peak hour down in the basement right now.
+	//Dottie
+It's a homecoming show for him.
+	//Sandro
+He launched his career here, after all.
+END
+BlueMoose
+	//Dottie looks at You
+	//Sandro looks at You
+	//Dottie
+I had one of those about an hour ago.
+	//Sandro
+It's funny when there's this unlimited supply of something.
+You just... develop a taste for it.
+	//Dottie
+It's inevitable, in a place like this.
+	//Sandro looks at Dottie
+	//Sandro
+Did you know that the Blue Moose endorsement comprises 63% of our yearly income?
+	//Dottie looks at Sandro
+	//Dottie
+Did Nadia tell you that?
+	//Sandro
+Nadia wouldn't tell me if there was a snake in my bed.
+But she did leave her ledger out last week.
+	//Dottie
+No she didn't.
+	//Sandro
+I had to look.
+	//Dottie
+So it's that bad, huh?
+	//Sandro
+To be honest, most of the the accounting was indecipherable.
+	//Dottie
+Was there more red ink on the page or black?
+	//Sandro
+There was black ink, red ink.
+Glitter stickers and rainbows drawn in marker.
+Pictures of pop stars, glued in the margins.
+	//Dottie
+Ok, I'm glad I didn't see it.  
+Just as long as that Blue Moose money keeps flowing our way.
+	//Sandro
+63%.  Every sip is another 30 bucks in your pocket.
+	//Dottie
+For now.
+	//Sandro
+For now...
+END
+Apple
+	//Dottie looks at You
+	//Sandro looks at You
+	//Sandro
+I could go for a warm slice of apple pie right now.
+	//Sandro looks at Dottie
+With a side of vanilla ice cream.
+	//Dottie looks at Sandro
+	//Dottie
+I could go for a cold spoonful of apple sauce.
+With a dram o'whiskey.
+	//Sandro
+*sigh*
+	//Dottie
+*sigh*
+END
+BlueCube //TEST
+	//Dottie looks at You
+	//Sandro looks at You
+	//Dottie
+This is actually happening in blue.
+	//Sandro
+So fuckin true.
+END
+RedCube
+	//Dottie looks at You
+	//Sandro looks at You
+	//Dottie
+Red said Fred.
+	//Sandro looks at Dottie
+	//Sandro
+Such Bread.
+END
+NULL

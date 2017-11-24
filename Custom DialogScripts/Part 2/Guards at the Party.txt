@@ -1,0 +1,12 @@
+stuff
+BEGIN
+	Human 1
+No way.
+	Human 2
+You're not getting behind us.
+	Human 1
+It's simple...
+	Human 2
+Dance or leave.
+END
+NULL

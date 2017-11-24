@@ -1,0 +1,61 @@
+//  inventory of the parking lot guy
+//
+AnotherApple
+	Cowboy
+That's a ripe apple.
+Great.
+Apple
+	Cowboy
+The Apples stocked in the Norwood Pantry are called 'elder rambos.'
+Subtle sweetness with a slightly bitter aftertaste.
+Good for pies and to add apple flavoring to cool water.
+Just don't ask Bruce, our chef, to make you an apple crumble.
+It will probably crumble before it reaches your mouth.
+TheRabbitTalisman
+	Cowboy
+Admirers of Norwood say he was a collector.
+Detractors say he was a hoarder.
+We've had antique dealers come through over the years.
+In hopes that we can sell some of Norwood's curios.
+Their offers are always too low for Nadia.
+Now I fear that income stream has flowed away from us for good.
+END
+Motorcycle_Helmet_2
+	Cowboy
+Helmets are for the meek.
+But where's your bike, anyway?
+Or is that your costume for DJ Bogart's party?
+END
+BlueMoose
+	Cowboy
+I used to have Blue Moose and scotch every morning.
+Now I feel twice as old as I am.
+Seems like a perk, having endless cans of the stuff around.
+What I wouldn't give for a grapefruit juice right now.
+END
+ParkingPermit
+	Cowboy
+Nothing excites me more than a trip to the lamination machine.
+Look, seeing as you don't have a car...
+You might as well give that back to Dottie when you see her.
+Actually, I'll take it.
+EVENT
+GIVE ITEM
+ParkingPermit
+Man...
+Oh man...
+This job is a drag.
+LOOP CONTROL
+Wonderful
+END
+SwitchboxKey
+	Cowboy
+Look, if you want to go opening that control box by the Singing Faces, knock yourself out.
+I don't even remember what got left in there.
+There was a mechanism in there.  Luigi Zee designed it, even.
+Norwood used the mechanism so he could 'tune' the tones that emanated from the Faces.
+Every week he'd have a different chord progression prepared for guests...
+as they drove up the hill.
+The mechanism's long gone.  Vandals, probably.
+END
+NULL

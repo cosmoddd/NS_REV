@@ -1,0 +1,175 @@
+//  dialog of the couple
+// 
+//
+Rumpo
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Person A
+Thanks again for finding my helmet
+	HT
+Human 2 looks at Human 1
+	Person B
+Yeah, I'd rather not buy you another one.  
+	HT
+	HT Reset
+END
+DemoCD
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Person A
+You're actually going to give that to DJ Bogart, huh?
+	HT
+Human 2 looks at Human 1
+	Person B
+That's how it starts, Hans.
+An established artist takes a promising one under their wing.
+	HT
+Human 1 looks at Human 2
+	Person A
+I'll bet DJ Bogart gets a lot of demos, though.
+	Person B
+But none of them sound like whatever this stranger's got.
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Person A
+Eh, stranger?
+	Person B
+I'm sure whatever you have on there is very special.
+END
+InturruptPreamble
+	HT
+Human 1 looks at Human 2
+	HT
+Human 2 looks at You
+	Person B
+Stranger, if you're gonna creep, come around here and show yourself.
+	Person A
+Yeah... what she said.
+	HT
+	HT Reset
+END
+INTURRUPT
+	HT
+Human 2 looks at You
+	HT
+Human 1 looks at You
+	Person A
+Hey I think I've seen you from somewhere.
+	Person B
+Yeah, you look sort of familiar.
+	Person A
+Actually, have you seen my helmet?  
+I must have dropped it on the way up here.
+	HT
+Human 2 looks at Human 3
+	Person B
+You need to actually start wearing your helmet, Hans.
+This is a dangerous sport.
+	HT
+Human 1 looks at Human 2
+	Person A
+Ugh.
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+He never wears his helmet.
+Always about the helmet.
+ALLEND
+	HT
+Human 2 looks at Human 3
+ALL
+Hans...
+Helmet this, helmet that.
+ALLEND
+BREAK
+	HT
+Human 2 looks at You
+	HT
+Human 1 looks at You
+	Person B
+We want to go to this party tonight.
+	Person A
+Yeah, we're not long-time DJ Bogart fans but...
+I drink a lot of Blue Moose and I know they're the sponsors.
+	HT
+Human 2 looks at Human 3
+	Person B
+I'm not sure we have the right attire, Hans.
+	HT
+Human 1 looks at Human 2
+	Person A
+Yeah, they don't just let anyone in...
+END
+Motorcycle_Helmet_2
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+	Person A
+Nice!  You got my helmet.
+EVENT
+GIVE ITEM
+Motorcycle_Helmet_2
+	Person A
+Thanks!
+EVENT
+DEACTIVATE
+~
+	HT
+Human 2 looks at Human 1
+	Person B
+Are you gonna actually wear it now?
+	HT
+Human 1 looks at Human 2
+ALL
+Eh?
+Of course!
+ALLEND
+	Person B
+Hmmm...
+LOOP CONTROL
+Rumpo
+END
+BlueMoose
+	Person A
+I used to drink that stuff a lot when I worked at the Modulo Group.
+	Person B
+It fueled many late night study sessions for me.
+	Person A
+It made me perfectly functional on four hours of sleep.
+	Person B
+Just the sight of it brings me back to Ernst Library.
+	Person A
+*sigh*
+	Person B
+*sigh*
+END
+AnotherApple
+	HT
+Human 1 looks at Human 2
+	HT
+Human 2 looks at Human 3
+	Person A
+An apple!
+	Person B
+Hmmm... an apple.
+	HT
+Human 1 looks at You
+	HT
+Human 2 looks at You
+ALL
+Bravo
+Quite impressive, really.
+ALLEND
+	HT
+	HT Reset
+END
+NULL

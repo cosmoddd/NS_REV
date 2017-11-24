@@ -1,0 +1,14 @@
+//  dialog of Luuuke
+// 
+DemoCD
+	Luuuke
+I've been staring at that CD on my shelf for years.
+I must've put hundreds hours in the studio putting it together.
+And at considerable expense.
+Now DJ Bogart gets to hear it.
+Thanks to your help, of course.
+END
+NULL
+	Luuuke
+No idea what that's about.
+END

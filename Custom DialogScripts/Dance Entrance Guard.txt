@@ -1,0 +1,23 @@
+//  dialog of the parking lot guy
+// 
+BEGIN
+	Guard
+No costume, no admittance.
+If you're a guest here, a costume should be provided in your room.
+But even then...
+EVENT
+DO
+Guard Head Looks
+	Guard
+These fools think their patience will win out in the end.
+EVENT
+DO
+Guard Head Looks
+	Guard
+If you don't want to end up like them, I suggest making sure your costume is...
+notable.
+I might just let you past these weak pretenders.
+Considering DJ Bogart is behind the decks tonight,
+we want everyone looking sharp.
+END
+NULL

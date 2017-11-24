@@ -1,0 +1,69 @@
+//  inventory of the Bogart
+// 
+DemoCD
+EVENT
+DISABLE
+~
+	BA
+Well then.
+Luuuke... I remember that guy.
+	DC
+An early attendee to DJ Bogart's modest first shows.
+	BA
+Indeed.
+Down at the train station.
+	BA
+So he wants me to listen to his stuff, huh?
+Look, I think I see where this is going.
+EVENT
+GIVE ITEM
+DemoCD_
+	BA
+Give me that CD.
+EVENT
+DO
+Holbein_Hidden_Panel
+Meet me up in my room.  We'll listen together.
+A nice trip back to amateur night.
+	DC
+Nostalgia is a resource for which fools pay dearly.  
+	BA
+Let me take the private lift up to my room.
+My underwear is all over the place, give me a minute to tidy up.
+Hmmm...
+EVENT
+DO
+Boardwalk Assassin
+EVENT
+DO
+BA Text
+EVENT
+ENABLE
+~
+LOOP CONTROL
+LOOP 1
+EVENT
+DIALOG RESET
+~
+END
+NULL
+Get that out of my face.  What do you really want to show me?
+Cookies
+I don't eat when I'm working.
+Not even chocolate chip cookies.
+And I'm still working.
+	DC
+DJ Bogart is always working.
+Never eating chocolate chip cookies.
+	BA
+That's not always true.
+I will occasionally indulge in one or two after a light meal.
+	DC
+A DJ Bogart knows his limits.
+	BA
+I mean, I'll binge after a particularly long night, but that's it.
+	DC
+...
+	BA
+So no thanks to the cookies, ok?
+END

@@ -1,0 +1,61 @@
+stuff
+BEGIN
+	Human 2
+Congratulations on your promotion, Lucy.
+	Human 1
+Oh, thanks.  I honestly didn't see it coming.
+	Human 2
+That's the third one in the last, what, two years?
+	Human 1
+I'm not really doing anything that remarkable.
+	Human 2
+Naako would disagree.
+	Human 1
+Oh, that Naako.
+	Human 2
+Really, he can't stop singing your praises at meetings.
+	Human 1
+Well, I gotta hand it to my team of assistants.
+	Human 2
+Your assistants aren't getting the pay raise you are.
+	Human 1
+Their turn is coming.  
+	Human 2
+Maybe it's come already.
+	Human 1
+I can't do it without them.
+	Human 2
+Would you like to re-distribute your raise so they get a share?  
+	Human 1
+Oh, absolutely not.
+	Human 2
+Then accept my congratulations and have a drink with me.
+	Human 1
+Fine, but I don't drink.
+	Human 2
+Lucy, look where we are.
+Blue Moose keeps there entire east coast stock here, pretty much.
+	Human 1
+Well, I could use that to take the edge off before tomorrow's conference.
+	Human 2
+Please.  Alan Miranda's got nothing on our team.
+	Human 1
+I feel like we're still overlooking some crucial detail.
+And Miranda's going to pounce on it.
+	Human 2
+Let me put you at ease, Lucy:
+I've been staying here the last several weekends.
+Drafting sketches, taking several meetings with Nadia.
+I even got to influence the make-up of the panel.
+	Human 1
+Isn't that... a bit underhanded?
+	Human 2
+Everyone has their price, Lucy.
+	Human 1
+Oh?
+	Human 2
+Everyone.
+	Human 1
+Now I really need some of that Blue Moose.
+END
+No dialog yet.

@@ -1,0 +1,30 @@
+//  dialog of the couple
+// 
+BEGIN
+	Person B
+This is quite a night.
+	Person A
+Are you worried you'll run into some old work colleages.
+	Person B
+Not really.  I could care less about them, or the company.
+	Person A
+...
+	Person B
+OK, maybe I'm a little worried.
+	Person A
+No one ever leaves a company like that.
+	Person B
+I did.  I walked away.
+	Person A
+I know, that was really brave of you.
+	Person B
+Or stupid, depending on who you ask.
+	Person A
+Brave.  I think it as brave.  And here we are.
+	Person B
+Yeah, but where to next?
+	Person A
+Take things a day at a time.  
+	Person B
+Hmmm...
+END

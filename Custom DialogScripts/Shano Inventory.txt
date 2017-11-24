@@ -1,0 +1,156 @@
+//dialog control
+MusicProblem
+	Student 2
+What a drag, I was looking forward to listening to that track.
+	Studnet 1
+We'll get there eventually!
+	Shano
+Grrrr....
+END
+RecordNeedle
+	HT
+Shano looks at You
+	HT
+Student 1 looks at You
+	HT
+Student 2 looks at You
+	Shano
+That's exactly what we needed!  Let's load it on to the cartridge.
+EVENT
+GIVE ITEM
+RecordNeedle
+	Shano
+Very exciting.
+EVENT
+DO
+RecordRecordPlayer
+	Student 1
+Let's rotate the needle.
+EVENT
+DO
+RecordRecordPlayer
+ALL
+Yeah, my ears are getting thirsty.
+Let's do this!
+ALLEND
+EVENT
+DO
+RecordRecordPlayer
+	Shano
+Wait for it...
+EVENT
+DO
+RecordRecordPlayer
+	Student 2
+Sounds... ok.
+	Shano
+Hmmmm...
+	HT
+Student 1 looks at Shano
+	Student 1
+It's scratchy.  
+	Shano
+And it's skipping.  
+I guess was one of the casualties from when our basement flooded.
+	HT
+Shano looks at You
+	Shano
+Stranger, if you'd be so kind, I left a copy of this record in my car.
+	HT
+Student 1 looks at Shano
+	Student 1
+I'll get it for you.
+	HT
+Shano looks at Student 1
+	Shano
+You're not leaving this theater.
+	Student 2
+Don't let her leave, Mrs. Davis.  She'll wander.
+	Student 1
+No I won't.
+	Shano
+If you could get me the copy of the record, it's in the trunk of my car.
+EVENT
+GET ITEM
+ShanoCarKey
+	Shano
+This is the key to my car out in the lot.
+It's a '96 Yuegoni Buttress.  
+	Student 1
+Careful, it smells inside.
+	Student 2
+Betsy...
+	Shano
+You can't miss it amidst all those company cars.
+LOOP CONTROL
+MusicProblem
+EVENT
+ACTIVATE
+~
+END
+
+
+EVENT
+ACTIVATE
+~
+	Student 2
+So this is why you always carry two copies of every record with you?
+	Shano
+Precisely.  It's cost me dearly over the years but it's well worth it.
+It's a blue ___.
+Thanks!
+END
+END
+
+
+	HT
+HT RESET
+
+INTURRUPT
+	HT
+Shano looks at You
+	HT
+Student 1 looks at You
+	Student 1
+Well well.
+	Shano
+As you can see, this listening party's a little quiet.
+	Student 2
+We need a needle for our record player.
+	HT
+Student 1 looks at Shano
+	Student 1
+Dottie, or whatever her name is, she's useless.
+	Shano
+If you see one, kindly ask whoever own's it...
+	HT
+Student 1 looks at Shano
+	HT
+Student 1 looks at You
+	Student 1
+I don't even care whose owns it.
+I need to listen to this record!
+	HT
+Student 2 looks at Student 1
+	Student 2
+Why the hurry?
+	HT
+Student 1 looks at Student 2
+	HT
+Shano looks at Student 2
+	Student 1
+I want to get in line to see DJ Bogart!
+	HT
+Student 1 looks at Shano
+	HT
+Student 2 looks at Shano
+	HT
+Shano looks at You
+	Shano
+*GROAN*
+	HT
+	HT Reset
+END
+
+END
+NULL

@@ -1,0 +1,162 @@
+stuff
+BEGIN
+	HT
+Shano looks at Student 1
+	Shano
+...but some forty years ago.
+	Student 2
+Yes?
+	HT
+Student 1 looks at Student 2
+	Shano
+Peter Norwood was last seen sitting here at this very piano.
+Here we have the Geiger Suite in F Minor.  
+This recording is from the 1950s.
+	HT
+Student 1 looks at Shano
+	Student 1
+They recorded it here, in this room?
+	HT
+Student 2 looks at Student 1
+	Student 2
+Of course, Betsy.
+Didn't you watch that video Mrs. Davis sent us?
+	HT
+Shano looks at Student 2
+	Shano
+You can actually see scuff marks from the recording equipment on the walls.
+	HT
+Student 1 looks at Student 2
+	Student 1
+I don't see anything.
+Can we listen to music now?
+	Shano
+Patience, Betsy.  You don't put on a Norwood record casually.
+This is a ritual I've partaken in for a long time.
+It requires preparation.
+The right mood, the proper atmosphere.
+	Student 2
+And a record needle.
+	Shano
+Right... that, too.
+I already asked the front desk and they're sending someone to get it for us.
+	Student 1
+It's been fifteen minutes.  
+	Student 2
+Clock's ticking.
+	Shano
+Please, patience...
+BREAK
+	Student 1
+I want some Blue Moose.
+	Student 2
+They don't sell Blue Moose in the dining hall after 9pm.
+	Student 1
+I get unlimited waffles on Tuesdays at my dining hall.
+	Shano
+Both of you, please, pay attention.  
+You have no idea what your advisors had to go through to get you here.
+	Student 2
+So can we listen to music?
+	Shano
+Not until we have our record needle.
+	Student 1
+Why don't you play something for us, Miss Davis?
+Isn't that Norwood's famouse piano over there?
+	Student 2
+Betsy, you know Miss Davis can't right now.
+	Student 1
+Oh, right.  Sorry, Miss Davis.
+	Shano
+It's ok.  How about we just...
+Wait for that needle, ok?
+BREAK
+	Student 2
+Who's that on the wall, in the cowboy hat?	
+	Shano
+That's Klaus 'Claws' Burlington
+	Student 1
+Should I know who that is?
+	Shano
+Well, he was only the best cello player of his generation.
+Whenever he and Norwood gave a public concert...
+It caused a traffic jam from here to Yonksville.
+They had to install this massive speaker system.
+People would picnic throughout the grounds, listening in.
+My parents even tried to go, but they could never get near it.
+	Student 2
+My parents have a few tapes of those shows.
+	Student 1
+So do mine.
+	Shano
+But this record I'm about to play you... it's even better.
+If we can get a needle.
+	Student 1
+Ok...
+BREAK
+Norwood made sure to give credit all his collaborators.
+They're looking down at us from the walls right now.
+	Student 2
+I don't recognize any of these people.
+	Student 1
+I really just care about Norwood. to be honest.
+	Shano
+But Betsy, Norwood couldn't have done what he did without his friends.
+	Student 1
+Yeah, but I'm not learning how to play oboe or cello or whatever.
+After this weekend I will have fulfilled my Humanities Requirement.  
+	Student 2
+Betsy...
+	Shano
+Ladies...
+END
+BREAK
+	Student 1
+Mrs. Davis, can I explore this place while we wait for the needle?
+	Student 2  
+Can we check out downstairs?
+	Shano
+Absolutely not.
+	Student 2
+It smells like my barn.
+	Shano
+It's not the place for you.
+	Student 1
+The music coming from there is really loud.
+	Shano
+That music isn't for you.
+The agreement is such that you stay with me the whole time.
+	Student 1
+Aww...
+	Student 2
+Ok...
+END
+
+	Shano
+I'd inquire about piano tuning here for years after school.
+When Llana retired in '09, I jumped at the chance to fill her shoes.
+I knew the risks, and the upfront costs.
+But I really didn't care at the time.
+My main job has been to tune this piano...
+Along with the upright in the lobby.
+I hear there's another one in The Norwood Suite.
+My boss, Nadia, doesn't let anyoen up there.
+I asked her if we could somehow hire movers.
+To bring that piano down into the dining room.
+"We can't afford it."
+I asked one of the sponsors if they'd help out.
+And I got laughed out of his office.
+What a missed opportunity.
+BREAK
+	Shano
+Those club goers.  
+They try in vain to get down to the basement.
+The bouncer turns most of them away.
+In his time, Norwood didn't reject anybody. 
+His concerts were open door affairs.  
+This hall used to be bursting with people.
+Swelling their ears with...
+the most wonderfully destabalizing of note combinations.
+What the hell happened, stranger?
+END
+NULL

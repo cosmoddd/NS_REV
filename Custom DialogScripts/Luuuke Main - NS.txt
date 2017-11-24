@@ -1,0 +1,43 @@
+//  dialog of Luuuke
+// 
+BEGIN
+	Luuuke
+Hello, once more, friend.
+I see you continue to move in unexpected directions.
+I thought this room was permanently off-limits.
+That's why I've been holing up here.
+The Norwood always had a place for the likes of me.
+BREAK
+LOOP CONTROL
+LOOP 1
+	Luuuke
+So you need a costume for the club, huh?
+Mo is notoriously picky about who he lets in.
+You'll need to do a thorough job of making a good costume.
+Slick shoes for dancing, 
+Outrageous pants,
+Counter-balanced by a formal shirt,
+A singular intimidating necklace, 
+A devious mask to hide yoru true identity,
+A tall hat to elevate your height,
+A monocle, so you can see others' true motives, 
+...and definitely some fake facial hair, so people will think you're older than you are.
+The costume mannequin for putting this all together is up the ladder in Norwood's walk-in armoire.
+Other guests do have pieces of some sort of costume, but none of them seem interested in DJ Bogart's style.
+Pity them.
+Hmmm...
+END
+
+
+BREAK
+LOOP CONTROL
+LOOP 1
+	Luuuke
+Years ago, DJ Bogart said I could send him my music.
+That was when he still played to a room full of three people.
+I was one of them.
+Me, Bernice and Jags.  
+Now, he plays to thirty thousand.
+Let's just say I'm finally calling in the favor.
+BREAK
+	Luuuke

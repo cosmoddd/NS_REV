@@ -1,0 +1,154 @@
+﻿//  dialog between Clem and Bruce at the opening part of the game.
+//  setting the scene for future dealings
+//  do not feed into the game until "BEGIN"
+BEGIN
+	Bruce
+You’ve cornered me.  Again.
+	Clem
+You were experimenting with a new tactic.
+	Bruce
+I really needed a win tonight.  
+It's been a stressful week.
+Those Modulo people are too much.  
+	Clem
+They're still just guests for now.
+You need to treat them as such.
+	Bruce
+They act like they already own the place.
+I'm a second class citizen in their eyes.
+	Clem
+Ok,forget about them, just focus on the game.
+	Pause 6
+	Bruce
+Sigh... I’d rather lose trying something new then just make the same old moves.
+	Pause 3
+In either case, you need to be served some humble pie.
+	Clem
+Maybe if you had a little help.
+A little guidance...
+	Bruce
+Perhaps.  I do still have a few moves to make here.
+BREAK
+	Clem
+How has it been dealing with this weekend's guests?
+	Bruce
+A lady from the Modulo Group ordered a turkey sandwich and complained that the bread wasn't toasted.
+She also yelled at me for not including a pickle.
+	Clem
+When was the last time the Norwood Hotel served pickles?
+	Bruce
+I'll tell you when...
+	Pause 6
+When Peter fuckin' Norwood lived here and threw a bunch of them into the audience after every concert.
+	Clem
+I read about that.
+	Bruce
+I'll bet you did, you poncy bookworm.
+	Clem
+I read that he did do a lot of throwing.  Of chairs, music stands.
+At his fellow musicians when they were not on their game.
+	Bruce
+Let's forget about Norwood for now.  I gotta focus here.
+I know there's a killer move to make here somewhere... 
+BREAK
+	Clem
+I heard the Board of Trustees vote got bumped up to tomorrow afternoon.
+	Bruce
+Are you kidding me?  Clem, that's it, then.  
+This might be our last game.
+	Clem
+I remember the day I checked in to this place.
+	Bruce
+Yeah, I was still getting trained by Chef Ringbud. 
+	Clem
+Great guy, but...
+	Bruce
+I know, I know.
+People were ordering a lot of delivery back then.
+	Clem
+Nadia made the right call cutting Ringbud loose.
+	Bruce
+I'm not sure he's doing so well now.
+	Clem
+You lose a job like that and it's kind of downhill from there.
+	Bruce
+Don't remind me, Clem.
+	Clem
+I'm sure you'll find something in the city.
+	Bruce
+We'll see...
+BREAK
+	Bruce
+Aren't you going to miss DJ Bogart and his posse?  
+	Clem
+Very funny.
+I welcome a weekend where my floors aren't vibrating with mindless bass.
+	Bruce
+You mean the mindless bass kept the Hotel running for almost a decade?
+Like, singlehandedly?
+	Clem
+You mean my rent check didn't contribute to the ongoing financial health of this place?
+I always paid on time, you know.
+	Bruce
+Your rent paid for the hourly fee that our lawyer charged.
+To tell us our property taxes were going up.
+Again.
+	Clem
+I did read about that in the paper.
+Someone should organize a protest or something.
+Community action.
+	Bruce
+Sure...
+BREAK
+	Clem
+Would the Modulo Group keep you on staff?
+	Bruce
+Fat chance.  They have their own food service contracting arrangement.
+	Clem
+They wouldn't fold you in?
+	Bruce
+I'd have to go back to the city, re-apply for the position.
+Through an agency that doesn't know me from Sandro.
+Then I'd need to work my way back up, basically start over.
+They probably wouldn't give me my own room, either.
+	Clem
+That's been a nice perk, huh?
+	Bruce
+Well, considering how little actual hotel business this place did, I figured why not.
+	Clem
+So what will you do?
+	Bruce
+Honestly, Clem, I have no clue.  
+BREAK
+	Clem
+I heard Alan Miranda's going to represent the Hotel at the hearing.
+	Bruce
+That was cute of Nadia to hire him.
+	Clem
+He's very capable, you know.
+	Bruce
+The Modulo Group is more capable.
+Even if it's Alan Miranda standing in their way.
+They're going to have more money, more lawyers, more fact-finders.
+	Clem
+I can already see where the Modulo IT infrastructure is gonna go.
+Up there on the mezzanine.
+	Bruce
+Some amazing Senutti games were played up there.
+	Clem
+Hey, Bruce, you're not out on the street yet.
+	Bruce
+Wanna look over my resume with me tomorrow?
+	Clem
+Buddy...
+END
+AnotherApple
+	Bruce
+Just testing the reality of the situation.
+	Clem
+Right.
+Righto.
+Righty-ro.
+END
+NULL
+//NO DIALOG YET, SORRY

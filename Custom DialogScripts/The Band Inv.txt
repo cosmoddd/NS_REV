@@ -1,0 +1,256 @@
+stuff
+AfterEtudes
+	HT
+	Dave Looks At You
+	HT
+	Jeremy Looks At You
+	HT
+	Mike Looks At You
+	Jeremy
+Man ah man, I still can't believe you found the Norwood Etudes...
+	Dave
+Miracles really do happen.
+	Mike
+Miracle of miracles!
+	Jeremy
+You should come up to our room.  Room 11.
+We're gonna read over this together.
+	HT
+	Mike Looks At Jeremy
+	Mike
+You can read over it all you want, I'm gonna read... other stuff.
+END
+BlankSheetMusic
+	HT
+	Dave Looks At You
+	HT
+	Jeremy Looks At You
+	HT
+	Mike Looks At You
+ALL
+Sheet music?
+Sheet music, huh?
+I've seen enough of that in my life.
+ALLEND
+	Mike
+Really, we're not doing autographs now.
+And even if we were, why would we sign...
+	HT
+	Dave Looks At Mike
+	HT
+	Mike Looks At Jeremy
+	HT
+	Jeremy Looks At Dave
+ALL
+Come on...
+Sheet music?
+A fucking blank five-staffer?
+ALLEND
+	HT
+	Jeremy Looks At You
+	Jeremy
+I mean, it's cool
+	HT
+	Dave Looks At You
+	HT
+	Jeremy Looks At Mike
+	Dave
+Yeah, but... yeah.
+	HT
+	HT Reset
+EVENT
+ACTIVATE
+~
+END
+INTURRUPT
+	HT
+	Dave Looks At You
+	HT
+	Jeremy Looks At You
+	HT
+	Mike Looks At You
+	Dave
+Finally, someone to get us sorted.
+	Mike
+Hospitality at last.
+	Jeremy
+I need something to keep my fingers occupied for this tour.
+Any recommendations?
+	HT
+	Mike Looks at Jeremy
+	Mike
+Careful, Jeremy.  Don't work yourself into a bout of tendonitis.
+	HT
+	Jeremy Looks at Mike
+	Jeremy
+Mike, I learned my lesson last year, believe you me.
+	HT
+	Jeremy looks at You
+Just putting it out there... if you see anything.
+END
+TheNorwoodEtudes
+	HT
+	Dave Looks At You
+	HT
+	Jeremy Looks At You
+	HT
+	Mike Looks At You
+	Dave
+Holy hey!
+	Jeremy
+Where did you get that?
+	Mike
+Man, how can you not resist playing that now, Jer?
+	Jeremy
+I'm gonna take this from you... and play it.
+EVENT
+GIVE ITEM
+TheNorwoodEtudes
+	Dave
+Stranger, why don't you come back to our room?
+LOOP CONTROL
+AfterEtudes
+	Dave
+Stranger, why don't you come back to our room.
+	Mike
+I could use a sandwich.
+	Jeremy
+Party in Room 11!
+EVENT
+DO
+JortonesNext
+	Dave
+Remember to use the secret sauce.
+LOOP CONTROL
+AfterEtudes
+END
+AnotherApple
+	HT
+	Dave Looks At Mike
+	HT
+	Mike Looks At Jeremy
+	HT
+	Jeremy Looks At Dave
+ALL
+No more apples!
+Really?!
+Ugh, apples...
+ALLEND
+	HT
+	HT Reset
+END
+Apple
+	HT
+	Dave Looks At You
+	HT
+	Jeremy Looks At You
+	HT
+	Mike Looks At You
+	Dave
+I'm writing a new song about apples.
+	HT
+	Mike Looks At Dave
+	Mike
+How long is it?
+	HT
+	Dave Looks At Mike
+Twenty minutes.
+	Mike
+A song about apples doesn't need to be twenty minutes long, Dave.
+	Dave
+Apples are an important part of my dietary life.
+They deserve a tone poem.
+	HT
+	Jeremy Looks At Dave
+	Jeremy
+I'm sure they do.  
+But the first ten minutes can't just be you playing scales.
+	HT
+	Dave Looks At Jeremy
+	Dave
+Scales, like apples, are simple and beautiful.  
+	Mike
+This song sucks already.
+	HT
+	Jeremy Looks At Mike
+	Jeremy
+I wouldn't be so quick to judge.
+Perhaps Dave has finally figured out his concept.
+	HT
+	Mike Looks At Jeremy
+	Mike
+Nope.
+	Dave
+You might want to hear my song first.
+	HT
+	Mike Looks At Dave
+	Mike
+Remember that song about grits?
+	Dave
+Yeah, I worked on that for months.
+	Mike
+Thirty minutes of arpeggios.
+	Dave
+What's wrong with arpeggios?
+	Jeremy
+The way you tucked in the part about the grits at the end there...
+	Dave
+Okay guys, I get it.  No apple ballad this weekend.
+	Mike
+I'm just saying, try getting to the point faster.
+	HT
+	Dave Looks At Mike
+	Dave
+Not every song is 3 minutes, mister miniatures.
+	Mike
+Dude, look at our Soundmist stats.
+After thirty seconds, the listeners click on something else.
+We're lucky if we have them for a minute or more.
+	Jeremy
+I think we should start writing minute-long songs. max.
+	Mike
+Me, too.
+	Dave
+Peter Norwood's peices were long and people listented to them.
+	Mike
+Norwood's pieces were good.
+	Jeremy
+Norwood's pieces got to the point faster, I'm afraid.
+	Dave
+Norwood would have been down with my approach.
+	Mike
+Why don't you play him a sample when you see him?
+	Jeremy
+Ok, that's enough, Mike... 
+	Dave
+You guys suck.
+END
+	RedCube
+	HT
+	Dave Looks At You
+	HT
+	Jeremy Looks At You
+	HT
+	Mike Looks At You
+	Mike
+A pretender of red cubes!
+	HT
+	Jeremy Looks At Mike
+	Jeremy
+Don't go soft, sonny.
+END
+BlueCube
+	HT
+	Dave Looks At You
+	HT
+	Jeremy Looks At You
+	HT
+	Mike Looks At You
+	Dave
+A baffler of the blue cube!
+	HT
+	Dave Looks At Mike
+	Jeremy
+Don't go moft, bonny.
+END
+NULL

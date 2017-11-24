@@ -1,0 +1,44 @@
+stuff
+BEGIN
+	Human 1
+I don't know, Ba, this is a strange choice.
+	Human 2
+Gotta have faith in the Boardwalk Assasin, Avery.
+This is the wind-up.
+He's going to drop a track that connects all the dots, shortly.
+I promise.
+	Huamn 1
+There's nothing but dots in this set.  Connect, please!
+	Human 2
+I gotta vent: there's too many people looking over at his vinyl.
+	Human 1
+Those fools.  
+	Human 2
+They think they can just take a look, go to Shani's Records and boom.
+They're DJs now.
+	Human 1
+In the year 20-whatever and everybody wants to be a DJ.
+	Human 2
+It's the year 20-whatever and everybody wants to be a producer.
+	Human 1
+People take pride in what they have no hand in.
+The Boardwalk Assasin uses special software.  
+Blanks out the tracks as soon as they load on the screen.
+	Human 2
+DJ Bogart peels all the labels off his vinyl.
+Replaces them with stickers that have his secret code.  
+	Human 1
+Some fool nabbed one of his records.
+At a particularly crowded party.
+Not a few months ago.
+Posted online, they say it's pointless to decode.
+	Human 2
+Just pictures of deers and owls and cows.
+	Human 1
+The rip sure did sound good, but who feels it now?
+	Human 2
+I'm caught in the grip of the city.
+	Human 1
+Madness.
+END
+NULL

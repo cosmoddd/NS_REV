@@ -1,0 +1,14 @@
+stuff
+RedCube
+	RD
+Red red cube.  Love of lube.
+BREAK
+	RD
+Understand the pam.
+END
+BlueCube
+	RD
+Stick the ice in the ye.
+ye ye yey eye.
+END
+NULL

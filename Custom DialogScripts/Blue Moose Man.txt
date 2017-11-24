@@ -1,0 +1,55 @@
+﻿//Blue Moose Man stares out the window
+BEGIN
+	BlueMan
+It's devious what DJ Bogart acheived.
+And the fact that he acheived it here, in Norwood's old estate.
+Most of his fans don't realize the throughline.
+They're too busy having their faces melted.
+And as long as they buy our product, that's all fine.
+Man, I could use a dip in the jacuzzi...
+BREAK
+	BlueMan
+A jacuzzi session could take the edge off for tomorrow.
+Sadly I left my swim trunks back in the city.
+I'm going to be out of my depth at this meeting tomorrow.
+I'd prefer that the Norwood Hotel remain its own entity.
+Hopefully the flow of our new Peach Sand flavor will sway opinion.
+Some poeple don't know what they have until they lose it.
+END
+	SwimTrunks
+	BlueMan
+Oh, buddy, you just made my night.
+EVENT
+GIVE ITEM
+SwimTrunks
+Thanks so much, I really needed a swim.
+I usually don't go down there without my favorite beverage.
+And no, it's not what you're thinking.
+I keep a case of Pluny the Older in my private chiller in the kitchen.
+I get it hand-delivered from the west coast in an ice-box.
+EVENT
+GET ITEM
+KeyWineLocker2
+Here's the key.  Why don't you go grab it for me.
+I promise you'll have free Blue Moose for a year.
+I'll be down by the jacuzzi.
+This might be my weekend here, after all...
+LOOP CONTROL
+Loop 1
+	BlueMan
+Whatever.  I'm in a jacuzzi.
+Nothing special.
+BREAK
+	BlueMan
+Behold the funkiest arctopus.
+END
+AnotherApple
+	BlueMan
+It's a thing.
+END
+	BlueMan
+Behold the arctopus.
+END
+NULL
+	BlueMan
+Yo.  What is that?

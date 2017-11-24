@@ -1,0 +1,92 @@
+﻿//June and Alan Miranda stand at the edge of the lobby
+BEGIN
+	Alan
+It's good to have a regimen.
+	June
+You don't have to tell me, dad.
+I always honor my clients' deadlines. 
+	Alan
+I thought you were coming here to finish your string quartet?
+	June
+The agency called today.
+They need five versions of "Happy Mouth" by Sunday. 
+	Alan
+What do they want with that awful song?
+	June
+It's for Saturn Noodles Birthday-Cake Ramen campaign.
+	Alan
+What a shame.
+	Pause 5
+	June
+I mean, money is money and I can't really say no.
+	Alan
+Are you using sheet music?
+	Pause 3
+	June
+Computer, as ever.
+	Pause 5
+	Alan
+You're always so expressive when you write away from the computer.
+	June
+Stop.  I feel bad enough I left mine back at the apartment.
+	Pause 3
+I'll see if they have any here.
+	Pause 5
+This place, there's bound to be some loose sheet music floating around.
+	Alan
+I worry you don't take enough time for your own self expression.
+	Pause 3
+	June
+Stop worrying, Dad.
+BREAK
+	June
+How's it going with the conference preparation?
+	Alan
+Dreadful.
+	June
+How can you say that?  Isn’t this, like, your home court, environmental science?
+	Alan
+The organization I'm going up against...
+They know me too well and they’ve been preparing.  
+Far more than I can afford to.  
+The acquisition of the Norwood Hotel is an inevitability to them.
+	June
+So it’s just you standing in their way, eh?
+	Alan
+A lot of regulative red-tape is standing in their way.
+The Modulo Group can afford to slice its way through it.
+But I have an ace up my sleeve.  
+	June
+Isn’t that what you always say?
+	Alan
+This one's a doozy, though.
+It could have serious reprcussions for everyone involved.
+	June
+Like what?
+	Alan
+You know I can't tell you.
+	June
+Could it stop Title 3 from passing?
+	Alan
+I wish I knew, June.
+BREAK
+	June
+You want to take a walk?  By the tennis courts?
+	Alan
+I'm gonna need to go over some charts, at least for the next few hours.
+	June
+Not even a little stroll?
+	Alan
+June... not this time.  After the conference tomorrow.
+	June
+But aren't you in a debrief til Sunday?
+	Alan
+Then we can go after that.
+	June
+I guess I'll just grind away at Happy Mouth.
+	Alan
+Try to fill in the margins with some of your own work.
+	June
+It would be easy if I had some music paper to write on...
+END
+NULL
